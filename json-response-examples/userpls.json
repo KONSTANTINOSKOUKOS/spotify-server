@@ -1,0 +1,128 @@
+{
+    "href": "https://api.spotify.com/v1/users/5z9jd41zypmr3imer5yy8ppg2/playlists?offset=0&limit=20",
+    "items": [
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5gwKkOSnCLlr1aVqkWwyAi"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5gwKkOSnCLlr1aVqkWwyAi",
+            "id": "5gwKkOSnCLlr1aVqkWwyAi",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebb2379ff3750b70de15bdc768d",
+                    "width": null
+                }
+            ],
+            "name": "Για άκουσμα (όχι άλμπουμ)",
+            "owner": {
+                "display_name": "Kostas",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/5z9jd41zypmr3imer5yy8ppg2"
+                },
+                "href": "https://api.spotify.com/v1/users/5z9jd41zypmr3imer5yy8ppg2",
+                "id": "5z9jd41zypmr3imer5yy8ppg2",
+                "type": "user",
+                "uri": "spotify:user:5z9jd41zypmr3imer5yy8ppg2"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "Niw5MjMyYTRiZWIxMTNhZjg0MTZmMTcxYjI0NDM0OGI4MjRlYmI1OTMy",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5gwKkOSnCLlr1aVqkWwyAi/tracks",
+                "total": 4
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5gwKkOSnCLlr1aVqkWwyAi"
+        },
+        {
+            "collaborative": false,
+            "description": "Press play, press start.",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWTyiBJ6yEqeu"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTyiBJ6yEqeu",
+            "id": "37i9dQZF1DWTyiBJ6yEqeu",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706f00000003b3e682b5049e2e0b86da6b5a",
+                    "width": null
+                }
+            ],
+            "name": "Top Gaming Tracks",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTY3MDU2MjU0MCwwMDAwMDAwMGQyNGQ5MGZlZjA4MjEwMTY2ZTMyNmZlZGQ4YmMwNjVi",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTyiBJ6yEqeu/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1DWTyiBJ6yEqeu"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1FKHKF9hyn5JXSfRvhxhTL"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1FKHKF9hyn5JXSfRvhxhTL",
+            "id": "1FKHKF9hyn5JXSfRvhxhTL",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b273a9a9d8a16c0b4146fb707c02ab67616d0000b273cacb017c5648e147558669fbab67616d0000b273e42b5fea4ac4c3d6328b622bab67616d0000b273f76287265bcd0505c0c70259",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b273a9a9d8a16c0b4146fb707c02ab67616d0000b273cacb017c5648e147558669fbab67616d0000b273e42b5fea4ac4c3d6328b622bab67616d0000b273f76287265bcd0505c0c70259",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b273a9a9d8a16c0b4146fb707c02ab67616d0000b273cacb017c5648e147558669fbab67616d0000b273e42b5fea4ac4c3d6328b622bab67616d0000b273f76287265bcd0505c0c70259",
+                    "width": 60
+                }
+            ],
+            "name": "Main",
+            "owner": {
+                "display_name": "Kostas",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/5z9jd41zypmr3imer5yy8ppg2"
+                },
+                "href": "https://api.spotify.com/v1/users/5z9jd41zypmr3imer5yy8ppg2",
+                "id": "5z9jd41zypmr3imer5yy8ppg2",
+                "type": "user",
+                "uri": "spotify:user:5z9jd41zypmr3imer5yy8ppg2"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NSxkMDI3MTA1OGYwMDNlMjk5ZTBiYjEwNTg2NjNkNWRhYTRlMDQ2MTc4",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1FKHKF9hyn5JXSfRvhxhTL/tracks",
+                "total": 4
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1FKHKF9hyn5JXSfRvhxhTL"
+        }
+    ],
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+}

@@ -1,0 +1,344 @@
+{
+    "href": "https://api.spotify.com/v1/users/5z9jd41zypmr3imer5yy8ppg2/playlists?offset=0&limit=50",
+    "items": [
+        {
+            "collaborative": false,
+            "description": "Ranked from 100 to 1",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/3GAGXrcuU81SZUkn0GU05L"
+            },
+            "href": "https://api.spotify.com/v1/playlists/3GAGXrcuU81SZUkn0GU05L",
+            "id": "3GAGXrcuU81SZUkn0GU05L",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebb8f73b21c58254e8c8308988d",
+                    "width": null
+                }
+            ],
+            "name": "Top 100 Most Recognizable Songs of All-Time",
+            "owner": {
+                "display_name": "Boogiehead",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/31omd6jobwv7iuq24hs6ntgqyiqq"
+                },
+                "href": "https://api.spotify.com/v1/users/31omd6jobwv7iuq24hs6ntgqyiqq",
+                "id": "31omd6jobwv7iuq24hs6ntgqyiqq",
+                "type": "user",
+                "uri": "spotify:user:31omd6jobwv7iuq24hs6ntgqyiqq"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MzE1LDc1ZTA3Y2ZlMzNhZTJmYWZmNDE5M2VmNjczMjE2MjczOTIwYWU5OWY=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/3GAGXrcuU81SZUkn0GU05L/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3GAGXrcuU81SZUkn0GU05L"
+        },
+        {
+            "collaborative": false,
+            "description": "The songs that boosted our mood. #SpotifyWrapped",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0ASJ2QAvdRv"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0ASJ2QAvdRv",
+            "id": "37i9dQZF1DX0ASJ2QAvdRv",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706f000000035f878954ff10888eaa3b7084",
+                    "width": null
+                }
+            ],
+            "name": "Songs That Made Us Smile in 2022",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTY2OTg5ODE2NSwwMDAwMDAwMDM2MGZjYzM0MDRkYjliYjE3YmEyY2ViZjBlOGM1NDJh",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0ASJ2QAvdRv/tracks",
+                "total": 82
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1DX0ASJ2QAvdRv"
+        },
+        {
+            "collaborative": false,
+            "description": "the beat of your drift",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWWY64wDtewQt"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWWY64wDtewQt",
+            "id": "37i9dQZF1DWWY64wDtewQt",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706f000000036422cb2c60dc3fc709558b6e",
+                    "width": null
+                }
+            ],
+            "name": "phonk",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTY3MDU3MzczOCwwMDAwMDAwMDU1MjE5YjEyNzE2NTBkMDE3ZjlkZjU0ZGJlYzk3NjFh",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWWY64wDtewQt/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1DWWY64wDtewQt"
+        },
+        {
+            "collaborative": false,
+            "description": "Spotify Wrapped presents the songs that you loved most this year.",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1F0sijgNaJdgit",
+            "id": "37i9dQZF1F0sijgNaJdgit",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://wrapped-images.spotifycdn.com/image/yts-2022/large/your-top-songs-2022_large_en.jpg",
+                    "width": null
+                }
+            ],
+            "name": "Your Top Songs 2022",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTY2OTkwODk2MiwwMDAwMDAwMDBiNjFiY2QxNTNkMTdkZjM2MDAwYmUyNjE3M2RmODE5",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1F0sijgNaJdgit/tracks",
+                "total": 101
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1F0sijgNaJdgit"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5gwKkOSnCLlr1aVqkWwyAi"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5gwKkOSnCLlr1aVqkWwyAi",
+            "id": "5gwKkOSnCLlr1aVqkWwyAi",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebb2379ff3750b70de15bdc768d",
+                    "width": null
+                }
+            ],
+            "name": "Για άκουσμα (όχι άλμπουμ)",
+            "owner": {
+                "display_name": "Kostas",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/5z9jd41zypmr3imer5yy8ppg2"
+                },
+                "href": "https://api.spotify.com/v1/users/5z9jd41zypmr3imer5yy8ppg2",
+                "id": "5z9jd41zypmr3imer5yy8ppg2",
+                "type": "user",
+                "uri": "spotify:user:5z9jd41zypmr3imer5yy8ppg2"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "Niw5MjMyYTRiZWIxMTNhZjg0MTZmMTcxYjI0NDM0OGI4MjRlYmI1OTMy",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5gwKkOSnCLlr1aVqkWwyAi/tracks",
+                "total": 4
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5gwKkOSnCLlr1aVqkWwyAi"
+        },
+        {
+            "collaborative": false,
+            "description": "Press play, press start.",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWTyiBJ6yEqeu"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTyiBJ6yEqeu",
+            "id": "37i9dQZF1DWTyiBJ6yEqeu",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706f00000003b3e682b5049e2e0b86da6b5a",
+                    "width": null
+                }
+            ],
+            "name": "Top Gaming Tracks",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTY3MDU2MjU0MCwwMDAwMDAwMGQyNGQ5MGZlZjA4MjEwMTY2ZTMyNmZlZGQ4YmMwNjVi",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTyiBJ6yEqeu/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1DWTyiBJ6yEqeu"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/76Hxoh9ceKX8rPsmZVITyU"
+            },
+            "href": "https://api.spotify.com/v1/playlists/76Hxoh9ceKX8rPsmZVITyU",
+            "id": "76Hxoh9ceKX8rPsmZVITyU",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27313f982aa5c43146c3d2c1964",
+                    "width": 640
+                }
+            ],
+            "name": "",
+            "owner": {
+                "display_name": "marcmelzer",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/marcmelzer"
+                },
+                "href": "https://api.spotify.com/v1/users/marcmelzer",
+                "id": "marcmelzer",
+                "type": "user",
+                "uri": "spotify:user:marcmelzer"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NCwyN2UxNDY1N2M4Yjc4NDkwNjYzZjZlZmNjMDI5Zjg0MTQwMzhjNWM2",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/76Hxoh9ceKX8rPsmZVITyU/tracks",
+                "total": 181
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:76Hxoh9ceKX8rPsmZVITyU"
+        },
+        {
+            "collaborative": false,
+            "description": "Follow this playlist for exclusive access to the tracks as they go live throughout the year! NBA 2K23 wouldn’t be complete without a fire tracklist for you to slam, dish, and swish to all year long! We’ve compiled some of our favorite artists, from up-and-coming names to global superstars!",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1SslbcItuTe4M2J7s24QPh"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1SslbcItuTe4M2J7s24QPh",
+            "id": "1SslbcItuTe4M2J7s24QPh",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebbc463c3367e55ceaec5e45258",
+                    "width": null
+                }
+            ],
+            "name": "Official NBA 2K23 Soundtrack",
+            "owner": {
+                "display_name": "2K",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/-2k-"
+                },
+                "href": "https://api.spotify.com/v1/users/-2k-",
+                "id": "-2k-",
+                "type": "user",
+                "uri": "spotify:user:-2k-"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTMzLDFlZWVkYzc2OGU0YjcyMzEwNGU4YjgyNzE1NTVmMjhkNTE4ZDdjMDg=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1SslbcItuTe4M2J7s24QPh/tracks",
+                "total": 94
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1SslbcItuTe4M2J7s24QPh"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1FKHKF9hyn5JXSfRvhxhTL"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1FKHKF9hyn5JXSfRvhxhTL",
+            "id": "1FKHKF9hyn5JXSfRvhxhTL",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b273a9a9d8a16c0b4146fb707c02ab67616d0000b273cacb017c5648e147558669fbab67616d0000b273e42b5fea4ac4c3d6328b622bab67616d0000b273f76287265bcd0505c0c70259",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b273a9a9d8a16c0b4146fb707c02ab67616d0000b273cacb017c5648e147558669fbab67616d0000b273e42b5fea4ac4c3d6328b622bab67616d0000b273f76287265bcd0505c0c70259",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b273a9a9d8a16c0b4146fb707c02ab67616d0000b273cacb017c5648e147558669fbab67616d0000b273e42b5fea4ac4c3d6328b622bab67616d0000b273f76287265bcd0505c0c70259",
+                    "width": 60
+                }
+            ],
+            "name": "Main",
+            "owner": {
+                "display_name": "Kostas",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/5z9jd41zypmr3imer5yy8ppg2"
+                },
+                "href": "https://api.spotify.com/v1/users/5z9jd41zypmr3imer5yy8ppg2",
+                "id": "5z9jd41zypmr3imer5yy8ppg2",
+                "type": "user",
+                "uri": "spotify:user:5z9jd41zypmr3imer5yy8ppg2"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NSxkMDI3MTA1OGYwMDNlMjk5ZTBiYjEwNTg2NjNkNWRhYTRlMDQ2MTc4",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1FKHKF9hyn5JXSfRvhxhTL/tracks",
+                "total": 4
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1FKHKF9hyn5JXSfRvhxhTL"
+        }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 9
+}
