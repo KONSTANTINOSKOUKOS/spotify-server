@@ -1,0 +1,625 @@
+{
+    "message": "Have a great musical day.",
+    "playlists": {
+        "href": "https://api.spotify.com/v1/browse/featured-playlists?country=GR&timestamp=2022-12-17T14%3A17%3A17&offset=0&limit=50",
+        "items": [
+            {
+                "collaborative": false,
+                "description": "Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή. Εξώφυλλο: Stan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXcdjiQ3xtMUy"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcdjiQ3xtMUy",
+                "id": "37i9dQZF1DXcdjiQ3xtMUy",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706f00000003632f3f0953813ef2fe957977",
+                        "width": null
+                    }
+                ],
+                "name": "Greek Pop",
+                "owner": {
+                    "display_name": "Spotify",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/spotify"
+                    },
+                    "href": "https://api.spotify.com/v1/users/spotify",
+                    "id": "spotify",
+                    "type": "user",
+                    "uri": "spotify:user:spotify"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTY3MTE0MTYwMCwwMDAwMDAwMDk1MDEyNDEyZDlhZTQ3MTk4M2QzZjFjMGYzOTUzZWMz",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcdjiQ3xtMUy/tracks",
+                    "total": 50
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:37i9dQZF1DXcdjiQ3xtMUy"
+            },
+            {
+                "collaborative": false,
+                "description": "Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας. Εξώφυλλο: Light, Trannos, Alitiz",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0e5BFIQWSDG"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0e5BFIQWSDG",
+                "id": "37i9dQZF1DX0e5BFIQWSDG",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706f00000003ca2c4a4e3f9b2c29ec36691c",
+                        "width": null
+                    }
+                ],
+                "name": "Hot Hits Greece",
+                "owner": {
+                    "display_name": "Spotify",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/spotify"
+                    },
+                    "href": "https://api.spotify.com/v1/users/spotify",
+                    "id": "spotify",
+                    "type": "user",
+                    "uri": "spotify:user:spotify"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTY3MDg3NTgyNiwwMDAwMDAwMGU4NjAwZDM1Y2JjZGNjYjZjNzA0YjJhZmM2MmM2YmY4",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0e5BFIQWSDG/tracks",
+                    "total": 50
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:37i9dQZF1DX0e5BFIQWSDG"
+            },
+            {
+                "collaborative": false,
+                "description": "Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή. Εξώφυλλοr: Paola",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX8BFWz6ArBm4"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8BFWz6ArBm4",
+                "id": "37i9dQZF1DX8BFWz6ArBm4",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706f00000003f863a7e3145e604c59c092f8",
+                        "width": null
+                    }
+                ],
+                "name": "Laika tou Simera",
+                "owner": {
+                    "display_name": "Spotify",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/spotify"
+                    },
+                    "href": "https://api.spotify.com/v1/users/spotify",
+                    "id": "spotify",
+                    "type": "user",
+                    "uri": "spotify:user:spotify"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTY3MTE0MTYwMCwwMDAwMDAwMDBhZjQwZTZiNzcxYmFmZDlmYzM2NzM1MWQyYTQ5Y2Fm",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8BFWz6ArBm4/tracks",
+                    "total": 50
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:37i9dQZF1DX8BFWz6ArBm4"
+            },
+            {
+                "collaborative": false,
+                "description": "Η ελληνική ραπ σκηνή στα καλύτερά της. Εξώφυλλο: Immune",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXczv0e5n6k9E"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXczv0e5n6k9E",
+                "id": "37i9dQZF1DXczv0e5n6k9E",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706f000000034304944967012b4ea2d6364d",
+                        "width": null
+                    }
+                ],
+                "name": "Hot Greek Rap",
+                "owner": {
+                    "display_name": "Spotify",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/spotify"
+                    },
+                    "href": "https://api.spotify.com/v1/users/spotify",
+                    "id": "spotify",
+                    "type": "user",
+                    "uri": "spotify:user:spotify"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTY3MTE0MTYwMCwwMDAwMDAwMGU0NmI3ZGZlN2QyYTVhMWE4ZjA5MThiZGRiZTZhNWI3",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXczv0e5n6k9E/tracks",
+                    "total": 50
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:37i9dQZF1DXczv0e5n6k9E"
+            },
+            {
+                "collaborative": false,
+                "description": "Αυτοί οι αγαπημένοι καλλιτέχνες θα σας πάνε στο υπέροχο μουσικό ταξίδι που είναι το έντεχνο. Εξώφυλλο: Kostas Tournas\n\n\n",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX3lklcdH9zQp"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX3lklcdH9zQp",
+                "id": "37i9dQZF1DX3lklcdH9zQp",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706f000000034e8abf3a3a74270e878f33d8",
+                        "width": null
+                    }
+                ],
+                "name": "Entehno Voices",
+                "owner": {
+                    "display_name": "Spotify",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/spotify"
+                    },
+                    "href": "https://api.spotify.com/v1/users/spotify",
+                    "id": "spotify",
+                    "type": "user",
+                    "uri": "spotify:user:spotify"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTY3MTE0MTYwMCwwMDAwMDAwMGFiN2ZiODgyYTg4NTM4NjQ0YWRlZDdhNzBkOGNiZjkw",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX3lklcdH9zQp/tracks",
+                    "total": 50
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:37i9dQZF1DX3lklcdH9zQp"
+            },
+            {
+                "collaborative": false,
+                "description": "New music from Lil Durk, Juice WRLD and A Boogie Wit da Hoodie.",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0XUsuxWHRQd",
+                "id": "37i9dQZF1DX0XUsuxWHRQd",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706f000000030f273804047238faea52c340",
+                        "width": null
+                    }
+                ],
+                "name": "RapCaviar",
+                "owner": {
+                    "display_name": "Spotify",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/spotify"
+                    },
+                    "href": "https://api.spotify.com/v1/users/spotify",
+                    "id": "spotify",
+                    "type": "user",
+                    "uri": "spotify:user:spotify"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTY3MTE2NzMxNywwMDAwMDAwMGMzZTkwZGY0NWNiMzMyNzgyYjIzZWU0MGY2MTQ3NjUx",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0XUsuxWHRQd/tracks",
+                    "total": 50
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:37i9dQZF1DX0XUsuxWHRQd"
+            },
+            {
+                "collaborative": false,
+                "description": "Relax and indulge with beautiful piano pieces",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4sWSpwq3LiO",
+                "id": "37i9dQZF1DX4sWSpwq3LiO",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706f00000003ca5a7517156021292e5663a6",
+                        "width": null
+                    }
+                ],
+                "name": "Peaceful Piano",
+                "owner": {
+                    "display_name": "Spotify",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/spotify"
+                    },
+                    "href": "https://api.spotify.com/v1/users/spotify",
+                    "id": "spotify",
+                    "type": "user",
+                    "uri": "spotify:user:spotify"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTY3MDI0Njg3NCwwMDAwMDAwMGJiMGZiZTY5YWEyMDE0ODVjZDI3MDg3ZTVjZjBhYWVj",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4sWSpwq3LiO/tracks",
+                    "total": 302
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:37i9dQZF1DX4sWSpwq3LiO"
+            },
+            {
+                "collaborative": false,
+                "description": "All the jams. Cover: Miguel",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXnexX7CktaI"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXnexX7CktaI",
+                "id": "37i9dQZF1DWXnexX7CktaI",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706f00000003abcf4c86bcde5afc56cf90ed",
+                        "width": null
+                    }
+                ],
+                "name": "Gold Edition",
+                "owner": {
+                    "display_name": "Spotify",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/spotify"
+                    },
+                    "href": "https://api.spotify.com/v1/users/spotify",
+                    "id": "spotify",
+                    "type": "user",
+                    "uri": "spotify:user:spotify"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTY3MDQzODIyMywwMDAwMDAwMDliYTNjMmE3ZDY4ZDY3NDY0MDRkMjA5ZGRiYTZlOWU4",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXnexX7CktaI/tracks",
+                    "total": 50
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:37i9dQZF1DWXnexX7CktaI"
+            },
+            {
+                "collaborative": false,
+                "description": "You say guilty, we say non stop bangers!",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX4pUKG1kS0Ac"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4pUKG1kS0Ac",
+                "id": "37i9dQZF1DX4pUKG1kS0Ac",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706f00000003d45924b0c5bf77a474e7be2a",
+                        "width": null
+                    }
+                ],
+                "name": "Guilty Pleasures",
+                "owner": {
+                    "display_name": "Spotify",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/spotify"
+                    },
+                    "href": "https://api.spotify.com/v1/users/spotify",
+                    "id": "spotify",
+                    "type": "user",
+                    "uri": "spotify:user:spotify"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTY2OTY2MDQ4NiwwMDAwMDAwMDM0OTYwY2RkZjYxYTM2ZDA3MTcwZmJhZmZjOTI4NGMy",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4pUKG1kS0Ac/tracks",
+                    "total": 150
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:37i9dQZF1DX4pUKG1kS0Ac"
+            },
+            {
+                "collaborative": false,
+                "description": "The biggest songs of the 2010s. ",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX5Ejj0EkURtP"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX5Ejj0EkURtP",
+                "id": "37i9dQZF1DX5Ejj0EkURtP",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706f00000003b0fe40a6e1692822f5a9d8f1",
+                        "width": null
+                    }
+                ],
+                "name": "All Out 2010s",
+                "owner": {
+                    "display_name": "Spotify",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/spotify"
+                    },
+                    "href": "https://api.spotify.com/v1/users/spotify",
+                    "id": "spotify",
+                    "type": "user",
+                    "uri": "spotify:user:spotify"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTY3MDUwNTIyOSwwMDAwMDAwMDVkNjk1NmFlMzA2NTg4ZjY5YjhhMDMyYzllYTMwYjcw",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX5Ejj0EkURtP/tracks",
+                    "total": 150
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:37i9dQZF1DX5Ejj0EkURtP"
+            },
+            {
+                "collaborative": false,
+                "description": "The chillest instrumental lofi beats, certified lush.",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXc8kgYqQLMfH"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXc8kgYqQLMfH",
+                "id": "37i9dQZF1DXc8kgYqQLMfH",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706f00000003ab3519ed4943efbb0ed42d2c",
+                        "width": null
+                    }
+                ],
+                "name": "lush lofi",
+                "owner": {
+                    "display_name": "Spotify",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/spotify"
+                    },
+                    "href": "https://api.spotify.com/v1/users/spotify",
+                    "id": "spotify",
+                    "type": "user",
+                    "uri": "spotify:user:spotify"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTY3MTE5MzE1NiwwMDAwMDAwMGQzZDVhZWU2MmNkZDljNTJhN2YzNTFmM2RlNzg2MjQ5",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXc8kgYqQLMfH/tracks",
+                    "total": 465
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:37i9dQZF1DXc8kgYqQLMfH"
+            },
+            {
+                "collaborative": false,
+                "description": "Because we all deserve great pop love songs in one playlist.",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX50QitC6Oqtn"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX50QitC6Oqtn",
+                "id": "37i9dQZF1DX50QitC6Oqtn",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706f00000003bc8990862fbf124ce4a1f0a7",
+                        "width": null
+                    }
+                ],
+                "name": "Love Pop",
+                "owner": {
+                    "display_name": "Spotify",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/spotify"
+                    },
+                    "href": "https://api.spotify.com/v1/users/spotify",
+                    "id": "spotify",
+                    "type": "user",
+                    "uri": "spotify:user:spotify"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTY3MDUxNzIxNCwwMDAwMDAwMGI4ZTM1N2YyYzkxMmRiMTRhODUzOWRmMjUwZWVlNGY1",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX50QitC6Oqtn/tracks",
+                    "total": 100
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:37i9dQZF1DX50QitC6Oqtn"
+            },
+            {
+                "collaborative": false,
+                "description": "Rock legends & epic songs that continue to inspire generations. Cover: Guns N' Roses",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+                "id": "37i9dQZF1DWXRqgorJj26U",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706f000000033b52952432e3a6d3f517eb2e",
+                        "width": null
+                    }
+                ],
+                "name": "Rock Classics",
+                "owner": {
+                    "display_name": "Spotify",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/spotify"
+                    },
+                    "href": "https://api.spotify.com/v1/users/spotify",
+                    "id": "spotify",
+                    "type": "user",
+                    "uri": "spotify:user:spotify"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTY3MTEyMTAwMywwMDAwMDAwMGU2YWNiMDBjZjhiYzk0ZGVhYmY0YjFhY2NlMzcxODM3",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+                    "total": 165
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U"
+            },
+            {
+                "collaborative": false,
+                "description": "<a href=\"spotify:genre:edm_dance\">Dance radio</a> hits from the 90s and 00s!",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX8a1tdzq5tbM"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8a1tdzq5tbM",
+                "id": "37i9dQZF1DX8a1tdzq5tbM",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706f00000003377cd62f388e2de7c3b2b08c",
+                        "width": null
+                    }
+                ],
+                "name": "Dance Classics",
+                "owner": {
+                    "display_name": "Spotify",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/spotify"
+                    },
+                    "href": "https://api.spotify.com/v1/users/spotify",
+                    "id": "spotify",
+                    "type": "user",
+                    "uri": "spotify:user:spotify"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTY0NjA4Njk0NiwwMDAwMDAwMDg5YjkxMDA2OWU5ODE1OTU2NzYwZmU1ZjYxYzEzMjJi",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8a1tdzq5tbM/tracks",
+                    "total": 120
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:37i9dQZF1DX8a1tdzq5tbM"
+            },
+            {
+                "collaborative": false,
+                "description": "<a href=\"spotify:genre:edm_dance\">Move</a> your feet!",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXaXB8fQg7xif"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXaXB8fQg7xif",
+                "id": "37i9dQZF1DXaXB8fQg7xif",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706f00000003310432fef1cad89faa1ccc1b",
+                        "width": null
+                    }
+                ],
+                "name": "Dance Party",
+                "owner": {
+                    "display_name": "Spotify",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/spotify"
+                    },
+                    "href": "https://api.spotify.com/v1/users/spotify",
+                    "id": "spotify",
+                    "type": "user",
+                    "uri": "spotify:user:spotify"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGE2ZGUwNjY5NTA3MGM1YmU4ZTdjMmJlZDQ3ZGVmN2Yx",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXaXB8fQg7xif/tracks",
+                    "total": 150
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:37i9dQZF1DXaXB8fQg7xif"
+            },
+            {
+                "collaborative": false,
+                "description": "Real rap music from the golden era.\n",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX186v583rmzp"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX186v583rmzp",
+                "id": "37i9dQZF1DX186v583rmzp",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706f0000000317f5a91128f800d0223948cd",
+                        "width": null
+                    }
+                ],
+                "name": "I Love My '90s Hip-Hop",
+                "owner": {
+                    "display_name": "Spotify",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/spotify"
+                    },
+                    "href": "https://api.spotify.com/v1/users/spotify",
+                    "id": "spotify",
+                    "type": "user",
+                    "uri": "spotify:user:spotify"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTY2OTAzMzUyNCwwMDAwMDAwMGE3Y2ExNDk2ODkzMThiMjdkMmU1Y2E2NDA4OTE0ODMz",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX186v583rmzp/tracks",
+                    "total": 100
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:37i9dQZF1DX186v583rmzp"
+            },
+            {
+                "collaborative": false,
+                "description": "These songs rocked the 90s. Cover: Nirvana",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX1rVvRgjX59F"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX1rVvRgjX59F",
+                "id": "37i9dQZF1DX1rVvRgjX59F",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706f00000003e1d0ef0d032d58e66514c72d",
+                        "width": null
+                    }
+                ],
+                "name": "90s Rock Anthems",
+                "owner": {
+                    "display_name": "Spotify",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/spotify"
+                    },
+                    "href": "https://api.spotify.com/v1/users/spotify",
+                    "id": "spotify",
+                    "type": "user",
+                    "uri": "spotify:user:spotify"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTY2MzY3MDM0NiwwMDAwMDAwMDg1NTM1NmI0ODVmNWUyNmEyNmI0ZjFjYTYwNzRmNzEz",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX1rVvRgjX59F/tracks",
+                    "total": 150
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:37i9dQZF1DX1rVvRgjX59F"
+            }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 17
+    }
+}
