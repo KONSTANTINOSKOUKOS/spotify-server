@@ -1,0 +1,4490 @@
+[
+    {
+        "name": "Today's Top Hits",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000038f08c7a754d07f324dc4f084",
+        "id": "37i9dQZF1DXcBWIGoYBM5M"
+    },
+    {
+        "name": "RapCaviar",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000030f273804047238faea52c340",
+        "id": "37i9dQZF1DX0XUsuxWHRQd"
+    },
+    {
+        "name": "mint",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000335243e42cee09a2bbef8b3e1",
+        "id": "37i9dQZF1DX4dyzvuaRJ0n"
+    },
+    {
+        "name": "Rock This",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000030aa5d85eb3705a6b4faba37d",
+        "id": "37i9dQZF1DXcF6B6QPhFDv"
+    },
+    {
+        "name": "Are & Be",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000030405fb3046c7a9d470240a3f",
+        "id": "37i9dQZF1DX4SBhb3fqCJd"
+    },
+    {
+        "name": "Viva Latino",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003200e685d0e391d1f27e1c2a7",
+        "id": "37i9dQZF1DX10zKzsJ2jva"
+    },
+    {
+        "name": "Hot Country",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003347d9079f5d1e4a6ebdc6618",
+        "id": "37i9dQZF1DX1lVhptIYRda"
+    },
+    {
+        "name": "New Music Friday Malaysia",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000032e16b2a5cf2e2e71d787460c",
+        "id": "37i9dQZF1DWZMWLrh2UzwC"
+    },
+    {
+        "name": "Fresh Finds: Class of 2022",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003c03728d7ade82b2a614d3e78",
+        "id": "37i9dQZF1DWWjGdmeTyeJ6"
+    },
+    {
+        "name": "Top 50 – Ελλάδα",
+        "owner": "Spotify",
+        "image": "https://charts-images.scdn.co/assets/locale_en/regional/daily/region_gr_large.jpg",
+        "id": "37i9dQZEVXbJqdarpmTJDL"
+    },
+    {
+        "name": "Top 50 – Παγκοσμίως",
+        "owner": "Spotify",
+        "image": "https://charts-images.scdn.co/assets/locale_en/regional/daily/region_global_large.jpg",
+        "id": "37i9dQZEVXbMDoHDwVN2tF"
+    },
+    {
+        "name": "Viral 50 – Παγκοσμίως",
+        "owner": "Spotify",
+        "image": "https://charts-images.scdn.co/assets/locale_en/viral/daily/region_global_large.jpg",
+        "id": "37i9dQZEVXbLiRSasKsNU9"
+    },
+    {
+        "name": "Viral 50 – Ελλάδα",
+        "owner": "Spotify",
+        "image": "https://charts-images.scdn.co/assets/locale_en/viral/daily/region_gr_large.jpg",
+        "id": "37i9dQZEVXbLOov4J0GutU"
+    },
+    {
+        "name": "goosebumps",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000030d5e6f861f423ecfac53610b",
+        "id": "37i9dQZF1DXdl6IPOySdX4"
+    },
+    {
+        "name": "Songs to Sing in the Shower",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000324893f0507c0fe2855565438",
+        "id": "37i9dQZF1DWSqmBTGDYngZ"
+    },
+    {
+        "name": "Sad Songs",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003583117b5f326c5759bcd4628",
+        "id": "37i9dQZF1DX7qK8ma5wgG1"
+    },
+    {
+        "name": "Chill Tracks",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003aa3d57de0916a2fe3dc6fd56",
+        "id": "37i9dQZF1DX6VdMW310YC7"
+    },
+    {
+        "name": "Happy Beats",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000325d50fa7cc51b307364050f5",
+        "id": "37i9dQZF1DWSf2RDTDayIx"
+    },
+    {
+        "name": "Mood Booster",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003bd0e19e810bb4b55ab164a95",
+        "id": "37i9dQZF1DX3rxVfibe1L0"
+    },
+    {
+        "name": "*end credits",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000371de0f38eec463b234b77d81",
+        "id": "37i9dQZF1DX2DKrE9X6Abv"
+    },
+    {
+        "name": "Happy Hits!",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b55b6074da1d43715fc16d6d",
+        "id": "37i9dQZF1DXdPec7aLTmlC"
+    },
+    {
+        "name": "Feelin' Good",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000313a02d059c0479e65a850267",
+        "id": "37i9dQZF1DX9XIFQuFvzM4"
+    },
+    {
+        "name": "Have a Great Day!",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000386e40f3121af6df6566051c9",
+        "id": "37i9dQZF1DX7KNKjOK0o75"
+    },
+    {
+        "name": "Morning Motivation",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003037da32de996d7c859b3b563",
+        "id": "37i9dQZF1DXc5e2bJhV6pu"
+    },
+    {
+        "name": "A Perfect Day",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000037e7d4311695c33ff9f92cd53",
+        "id": "37i9dQZF1DWSXBu5naYCM9"
+    },
+    {
+        "name": "Energy Booster: Hip-Hop",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000305949f1fa395a0cb49f865ae",
+        "id": "37i9dQZF1DWZixSclZdoFE"
+    },
+    {
+        "name": "Sad Indie",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003674322af0d61d64cdb0bb959",
+        "id": "37i9dQZF1DWVV27DiNWxkR"
+    },
+    {
+        "name": "Levitate",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000032047433948200cd4c892ff4c",
+        "id": "37i9dQZF1DWVY5eNJoKHd2"
+    },
+    {
+        "name": "Cozy Jazz",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003134f50fde24ba8b7c1ada8d6",
+        "id": "37i9dQZF1DX52ln8eMkne9"
+    },
+    {
+        "name": "Your Favorite Coffeehouse",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000031c09d0e729f9c9ad8bff6739",
+        "id": "37i9dQZF1DX6ziVCJnEm59"
+    },
+    {
+        "name": "Feelin' Myself",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003755ed199ce13f49e48fdf22f",
+        "id": "37i9dQZF1DX6GwdWRQMQpq"
+    },
+    {
+        "name": "Easy 80s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003478bac166066b4ef63733c3d",
+        "id": "37i9dQZF1DX6l1fwN15uV5"
+    },
+    {
+        "name": "Life Sucks",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000337499ba650da0f36e8285bd9",
+        "id": "37i9dQZF1DX3YSRoSdA634"
+    },
+    {
+        "name": "Hot Hits Greece",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003ca2c4a4e3f9b2c29ec36691c",
+        "id": "37i9dQZF1DX0e5BFIQWSDG"
+    },
+    {
+        "name": "Today's Top Hits",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000038f08c7a754d07f324dc4f084",
+        "id": "37i9dQZF1DXcBWIGoYBM5M"
+    },
+    {
+        "name": "Greek Pop",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003632f3f0953813ef2fe957977",
+        "id": "37i9dQZF1DXcdjiQ3xtMUy"
+    },
+    {
+        "name": "Internet Hits Greece",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d3e8d47e24d6f5de5bf75a38",
+        "id": "37i9dQZF1DX0QfDOCxg9IE"
+    },
+    {
+        "name": "New Music Friday Greece",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000327ad2ecf32c2141d4869a71e",
+        "id": "37i9dQZF1DX0OOhLg2GjAO"
+    },
+    {
+        "name": "big on the internet",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000030cff82b06291045fe23facaf",
+        "id": "37i9dQZF1DX5Vy6DFOcx00"
+    },
+    {
+        "name": "Ράδιο Ελλάδα",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b05ed895a6dccc2a8d3c7622",
+        "id": "37i9dQZF1DX7ihf6iVhAxA"
+    },
+    {
+        "name": "Christmas Pop",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a9631162322d66ffd169a263",
+        "id": "37i9dQZF1DX0A8zVl7p82B"
+    },
+    {
+        "name": "Best of Greek Pop & Laiko 2021",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003bc0fb700d8d2b419941dfa20",
+        "id": "37i9dQZF1DWXCUX24w5bNl"
+    },
+    {
+        "name": "Laika tou Simera",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003f863a7e3145e604c59c092f8",
+        "id": "37i9dQZF1DX8BFWz6ArBm4"
+    },
+    {
+        "name": "just hits",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003c78eecf373cdcbfb440fa106",
+        "id": "37i9dQZF1DXcRXFNfZr7Tp"
+    },
+    {
+        "name": "Entehno Voices",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000034e8abf3a3a74270e878f33d8",
+        "id": "37i9dQZF1DX3lklcdH9zQp"
+    },
+    {
+        "name": "Viral Hits",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d971c6c23114fc7636dc23eb",
+        "id": "37i9dQZF1DX2L0iB23Enbq"
+    },
+    {
+        "name": "Mega Hit Mix",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003fecb9c578f38ebc8eef432cc",
+        "id": "37i9dQZF1DXbYM3nMM0oPk"
+    },
+    {
+        "name": "Pop Rising",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b7d51b64a545f718f37479bf",
+        "id": "37i9dQZF1DWUa8ZRTfalHk"
+    },
+    {
+        "name": "The Ultimate Hit Mix",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000351bb93b9d0a4d0a242724a4e",
+        "id": "37i9dQZF1DWUZMtnnlvJ9p"
+    },
+    {
+        "name": "Pop Right Now",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000371d4be11b38e047fe00745bc",
+        "id": "37i9dQZF1DWVlLVXKTOAYa"
+    },
+    {
+        "name": "Soft Pop Hits",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000319b30d27d8f7d0b98cefe15b",
+        "id": "37i9dQZF1DWTwnEm1IYyoj"
+    },
+    {
+        "name": "Hot Rhythmic",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036ace0370b73965e5470b3d47",
+        "id": "37i9dQZF1DWYs83FtTMQFw"
+    },
+    {
+        "name": "Hit Rewind",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000034477d03df61b0379b33f8e4f",
+        "id": "37i9dQZF1DX0s5kDXi1oC5"
+    },
+    {
+        "name": "Hot Greek Rap",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000034304944967012b4ea2d6364d",
+        "id": "37i9dQZF1DXczv0e5n6k9E"
+    },
+    {
+        "name": "Hot Greek Rap: Best of 2022",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003da744de5fad2de5476f72346",
+        "id": "37i9dQZF1DX7BzbQGLQrCK"
+    },
+    {
+        "name": "RapCaviar",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000030f273804047238faea52c340",
+        "id": "37i9dQZF1DX0XUsuxWHRQd"
+    },
+    {
+        "name": "Rap Gymnastiki",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003194ff4fb7d1ecbdb21062d0b",
+        "id": "37i9dQZF1DWY6KI7pQhfpj"
+    },
+    {
+        "name": "I Love My '90s Hip-Hop",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000317f5a91128f800d0223948cd",
+        "id": "37i9dQZF1DX186v583rmzp"
+    },
+    {
+        "name": "Gold School",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003aac548f9e0be7baa472b9906",
+        "id": "37i9dQZF1DWVA1Gq4XHa6U"
+    },
+    {
+        "name": "Get Turnt",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d223680ce7ace76bfb350346",
+        "id": "37i9dQZF1DWY4xHQp97fN6"
+    },
+    {
+        "name": "Rap Workout",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000030b5dffb6f645059b157fc77b",
+        "id": "37i9dQZF1DX76t638V6CA8"
+    },
+    {
+        "name": "Beast Mode Hip-Hop",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000361b26b89e63392ad9955ce82",
+        "id": "37i9dQZF1DX9oh43oAzkyx"
+    },
+    {
+        "name": "Rap UK",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003fcb8fa4f7d0b178a44ff8606",
+        "id": "37i9dQZF1DX6PKX5dyBKeq"
+    },
+    {
+        "name": "Feelin' Myself",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003755ed199ce13f49e48fdf22f",
+        "id": "37i9dQZF1DX6GwdWRQMQpq"
+    },
+    {
+        "name": "No Cap",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b77ccf3c3fa7227f60155b5f",
+        "id": "37i9dQZF1DX0Tkc6ltcBfU"
+    },
+    {
+        "name": "Rap Anakalypseis",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000037ae86eb9abe295cac7fd5070",
+        "id": "37i9dQZF1DXaWvB8tnguJ8"
+    },
+    {
+        "name": "RapCaviar Presents... Best Hip-Hop Songs of 2022",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000312a004bdcbed2db71b772a99",
+        "id": "37i9dQZF1DWZFV9Asvj1J9"
+    },
+    {
+        "name": "Signed XOXO",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d2d55d76472a3bf46b3a336d",
+        "id": "37i9dQZF1DX2A29LI7xHn1"
+    },
+    {
+        "name": "Most Necessary",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000302f1849e0172ffcef0915cfd",
+        "id": "37i9dQZF1DX2RxBh64BHjQ"
+    },
+    {
+        "name": "Jazz Rap",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000035115b9702d26cd841fda7827",
+        "id": "37i9dQZF1DX8Kgdykz6OKj"
+    },
+    {
+        "name": "Beats & Rhymes",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a6d2b122714ab4392b5ba087",
+        "id": "37i9dQZF1DXcA6dRp8rwj6"
+    },
+    {
+        "name": "Who We Be",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036eac1dc5431a7126ce43f0c1",
+        "id": "37i9dQZF1DXcDoDDetPsEg"
+    },
+    {
+        "name": "B.A.E.",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003cf5f80ed2e25e1819b46e8fe",
+        "id": "37i9dQZF1DWX3387IZmjNa"
+    },
+    {
+        "name": "phonk",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a1d3de8e9183170f494634cf",
+        "id": "37i9dQZF1DWWY64wDtewQt"
+    },
+    {
+        "name": "Dance Party",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003310432fef1cad89faa1ccc1b",
+        "id": "37i9dQZF1DXaXB8fQg7xif"
+    },
+    {
+        "name": "Dance Hits",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000389e3c4aacae3a02659546a5b",
+        "id": "37i9dQZF1DX0BcQWzuB7ZO"
+    },
+    {
+        "name": "Ultra Gaming",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000332fa3f26c169600e0b88749e",
+        "id": "37i9dQZF1DWYN9NBqvY7Tx"
+    },
+    {
+        "name": "Chill Tracks",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003aa3d57de0916a2fe3dc6fd56",
+        "id": "37i9dQZF1DX6VdMW310YC7"
+    },
+    {
+        "name": "Happy Beats",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000325d50fa7cc51b307364050f5",
+        "id": "37i9dQZF1DWSf2RDTDayIx"
+    },
+    {
+        "name": "Deep House Relax",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000336b7c4ece12f6a254f41d5c1",
+        "id": "37i9dQZF1DX2TRYkJECvfC"
+    },
+    {
+        "name": "Night Rider",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000309eec532a1a213bc950dff71",
+        "id": "37i9dQZF1DX6GJXiuZRisr"
+    },
+    {
+        "name": "Techno Bunker",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036b4f2761dd0762890879e464",
+        "id": "37i9dQZF1DX6J5NfMJS675"
+    },
+    {
+        "name": "Power Hour",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a0771224543218ad74dc1c7b",
+        "id": "37i9dQZF1DX32NsLKyzScr"
+    },
+    {
+        "name": "Housewerk",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000033f663ceb0fd9d308416a6a43",
+        "id": "37i9dQZF1DXa8NOEUWPn9W"
+    },
+    {
+        "name": "mint",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000335243e42cee09a2bbef8b3e1",
+        "id": "37i9dQZF1DX4dyzvuaRJ0n"
+    },
+    {
+        "name": "Open Air",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003938e5bfb14e85c7da39b169d",
+        "id": "37i9dQZF1DWSYVW0BVc4a3"
+    },
+    {
+        "name": "House is a Feeling",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000032bb93b0a94936066655f76e3",
+        "id": "37i9dQZF1DWXDvpUgU6QYl"
+    },
+    {
+        "name": "Pop Remix",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000033b966f0e4cb85f81ad14dfc9",
+        "id": "37i9dQZF1DXcZDD7cfEKhW"
+    },
+    {
+        "name": "DOWN LOW",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003296dfaca9d08da66ad668073",
+        "id": "37i9dQZF1DXblmY5UIU3v3"
+    },
+    {
+        "name": "Hype",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003359b521f1a895103522edde9",
+        "id": "37i9dQZF1DX4eRPd9frC1m"
+    },
+    {
+        "name": "Lowkey Tech",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003184853d7f1227bd0ac62ddc8",
+        "id": "37i9dQZF1DX0r3x8OtiwEM"
+    },
+    {
+        "name": "Orgánica",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e11a7dbb165b906eb81f5bdc",
+        "id": "37i9dQZF1DX2pprEpa9URZ"
+    },
+    {
+        "name": "mosaic",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000037647f41b7ff93fa9af86b4c2",
+        "id": "37i9dQZF1DXd9vfK9DV3I6"
+    },
+    {
+        "name": "Ta Ellinika 00s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003673acdd02dc7c6d2b37bde40",
+        "id": "37i9dQZF1DX2Tq9Ik9U136"
+    },
+    {
+        "name": "Ta Ellinika 90s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003637ce2acfa24f80e5c5f1918",
+        "id": "37i9dQZF1DXcVTAcQNjdtK"
+    },
+    {
+        "name": "Ta Ellinika 10s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000382fb16d78087944dea0f159b",
+        "id": "37i9dQZF1DXdygDc0IBScO"
+    },
+    {
+        "name": "All Out 80s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000037876fe166a29b8e6b8db14da",
+        "id": "37i9dQZF1DX4UtSsGT1Sbe"
+    },
+    {
+        "name": "Ta Ellinika 80s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000329a5e7dcfaa1ea0579d46667",
+        "id": "37i9dQZF1DX5fSNoMNFVlT"
+    },
+    {
+        "name": "00s Rock Anthems",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000030b1bce98e70139ea34f572c2",
+        "id": "37i9dQZF1DX3oM43CtKnRV"
+    },
+    {
+        "name": "Party Hits 2000s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003128b6654e84ef4cffba70489",
+        "id": "37i9dQZF1DX7e8TjkFNKWH"
+    },
+    {
+        "name": "All Out 2010s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b0fe40a6e1692822f5a9d8f1",
+        "id": "37i9dQZF1DX5Ejj0EkURtP"
+    },
+    {
+        "name": "90s Party",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a9a7853641d94519d81f1a3c",
+        "id": "37i9dQZF1DXdo6A3mWpdWx"
+    },
+    {
+        "name": "10s Rock Anthems",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b294becbb53484d4111ec763",
+        "id": "37i9dQZF1DX99DRG9N39X3"
+    },
+    {
+        "name": "Ta Ellinika 70s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003043d111d66bd102296d07f61",
+        "id": "37i9dQZF1DX9KOBG58qfQZ"
+    },
+    {
+        "name": "90s Rock Anthems",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e1d0ef0d032d58e66514c72d",
+        "id": "37i9dQZF1DX1rVvRgjX59F"
+    },
+    {
+        "name": "All Out 70s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000389d04436476970873ca01a62",
+        "id": "37i9dQZF1DWTJ7xPn4vNaz"
+    },
+    {
+        "name": "All Out 90s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036b5da1f18305a872364f558a",
+        "id": "37i9dQZF1DXbTxeAdrVG2l"
+    },
+    {
+        "name": "80s Rock Anthems",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000322b91e4ae8c06e163aa0f30b",
+        "id": "37i9dQZF1DX1spT6G94GFC"
+    },
+    {
+        "name": "Ta Ellinika 60s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000038bc811c9e14e691f2bea0905",
+        "id": "37i9dQZF1DX4sWKsNhWMja"
+    },
+    {
+        "name": "Easy 80s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003478bac166066b4ef63733c3d",
+        "id": "37i9dQZF1DX6l1fwN15uV5"
+    },
+    {
+        "name": "Party Hits 2010s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000030b3215962492991ff8354ee5",
+        "id": "37i9dQZF1DWWylYLMvjuRG"
+    },
+    {
+        "name": "Easy 90s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000037ecc3ee75def87aaff1d59c8",
+        "id": "37i9dQZF1DWV8xrpik0esU"
+    },
+    {
+        "name": "00s Metal Classics",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000039f50fed38a51e36e20284aa2",
+        "id": "37i9dQZF1DWXNFSTtym834"
+    },
+    {
+        "name": "phonk",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a1d3de8e9183170f494634cf",
+        "id": "37i9dQZF1DWWY64wDtewQt"
+    },
+    {
+        "name": "Top Gaming Tracks",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b3e682b5049e2e0b86da6b5a",
+        "id": "37i9dQZF1DWTyiBJ6yEqeu"
+    },
+    {
+        "name": "Ultra Gaming",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000332fa3f26c169600e0b88749e",
+        "id": "37i9dQZF1DWYN9NBqvY7Tx"
+    },
+    {
+        "name": "DOWN LOW",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003296dfaca9d08da66ad668073",
+        "id": "37i9dQZF1DXblmY5UIU3v3"
+    },
+    {
+        "name": "Ultimate FIFA Soundtrack",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003482b0e7e92ffe28d6350ae2a",
+        "id": "37i9dQZF1DWTMWIpgAlsRJ"
+    },
+    {
+        "name": "Video Game Soundtracks",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003c60f140dc10397e80ea424d9",
+        "id": "37i9dQZF1DXdfOcg1fm0VG"
+    },
+    {
+        "name": "Retrowave // Outrun",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003dfc2e69fb637fbc36ac62bc9",
+        "id": "37i9dQZF1DXdLEN7aqioXM"
+    },
+    {
+        "name": "StartSelect: Kratos and Atreus ",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003bf30943bdefb8b338cc82bee",
+        "id": "37i9dQZF1DX1xEPBKyoFUz"
+    },
+    {
+        "name": "League of Legends Lil Nas X Takeover",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003bb607c8babcb675a6c7155a4",
+        "id": "37i9dQZF1DWVi45nh2EuPP"
+    },
+    {
+        "name": "Ultimate Pop Gaming",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000038a24ebc68da6edc3eb998fcf",
+        "id": "37i9dQZF1DWYRNXjFoiid2"
+    },
+    {
+        "name": "Indie Gaming",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003612f72d287ef5fa67f19f445",
+        "id": "37i9dQZF1DX4geSlFB9288"
+    },
+    {
+        "name": "FIFA 23 Official Soundtrack",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e959d02c43f95bf5b3c30474",
+        "id": "37i9dQZF1DX4vgOVqe6BJn"
+    },
+    {
+        "name": "Bass Arcade",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036cbfb1210f371d19f18e9f8f",
+        "id": "37i9dQZF1DX0hvSv9Rf41p"
+    },
+    {
+        "name": "EA SPORTS FIFA Mix",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003457cf4505d02541dfe6faa5f",
+        "id": "37i9dQZF1DXdDfBvFXqzpv"
+    },
+    {
+        "name": "Ultimate Rock Gaming",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000379b949bf5f567974a439d2cd",
+        "id": "37i9dQZF1DWZjmJmeiazwd"
+    },
+    {
+        "name": "Nitroboost",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003397488602c3e451510fbb0a0",
+        "id": "37i9dQZF1DWWpHR8v2FGW4"
+    },
+    {
+        "name": "Latin Gaming",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000030deafac0ef36d2da47cc9c14",
+        "id": "37i9dQZF1DX43v1NFXUzji"
+    },
+    {
+        "name": "Retro Gaming",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000388de98e46d5a0436a444c34f",
+        "id": "37i9dQZF1DWYnY33e7En9e"
+    },
+    {
+        "name": "Top Gaming Tracks of 2022",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003728391e6aabb4b286db3f4d9",
+        "id": "37i9dQZF1DX4WV3tIB2AIC"
+    },
+    {
+        "name": "Level Up Lofi",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003997938688108969ac2567bb7",
+        "id": "37i9dQZF1DX1bJXtym592H"
+    },
+    {
+        "name": "Deep House Relax",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000336b7c4ece12f6a254f41d5c1",
+        "id": "37i9dQZF1DX2TRYkJECvfC"
+    },
+    {
+        "name": "Feelin' Good",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000313a02d059c0479e65a850267",
+        "id": "37i9dQZF1DX9XIFQuFvzM4"
+    },
+    {
+        "name": "Calming Classical",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d4d256fb7cfeb0f512e6c1d1",
+        "id": "37i9dQZF1DWVFeEut75IAL"
+    },
+    {
+        "name": "Peaceful Meditation",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000032a2910673147c2396516208a",
+        "id": "37i9dQZF1DWZqd5JICZI0u"
+    },
+    {
+        "name": "Yoga & Meditation",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e5109542b131e1a056871137",
+        "id": "37i9dQZF1DX9uKNf5jGX6m"
+    },
+    {
+        "name": "Stress Relief",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003468762ec9fd93a2dc3b167ee",
+        "id": "37i9dQZF1DWXe9gFZP0gtP"
+    },
+    {
+        "name": "Rain Sounds",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000034a46a7f4e55bbc386dc77f84",
+        "id": "37i9dQZF1DX8ymr6UES7vc"
+    },
+    {
+        "name": "Relaxing Massage",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003f10e9e133f9a0faf7ac06316",
+        "id": "37i9dQZF1DXebxttQCq0zA"
+    },
+    {
+        "name": "Chill Vibes",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003f2d08778548e125bcb867692",
+        "id": "37i9dQZF1DX889U0CL85jj"
+    },
+    {
+        "name": "Chill Out Music",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003fe13c74ea8ae4008b4be1b9b",
+        "id": "37i9dQZF1DX32oVqaQE8BM"
+    },
+    {
+        "name": "Totally Stress Free",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b25e0e9cdd7e55a0ea3ff0e6",
+        "id": "37i9dQZF1DWT7XSlwvR1ar"
+    },
+    {
+        "name": "Peaceful Guitar",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003c1811d50fbd4df02ea3b06a3",
+        "id": "37i9dQZF1DX0jgyAiPl8Af"
+    },
+    {
+        "name": "Peaceful Retreat",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003211568fb8b49893905829bc1",
+        "id": "37i9dQZF1DX1T2fEo0ROQ2"
+    },
+    {
+        "name": "Relaxing Piano Covers ",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003ba218c0d05e43cdfd42893b6",
+        "id": "37i9dQZF1DWSADWNdZfn11"
+    },
+    {
+        "name": "Meditate to the Sounds of Nature",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000031216c5a5ede81a7f13db3a2e",
+        "id": "37i9dQZF1DX1tuUiirhaT3"
+    },
+    {
+        "name": "Sunrise Yoga",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000309c51056e92882e97f2c3740",
+        "id": "37i9dQZF1DXdVyc8LtLi96"
+    },
+    {
+        "name": "lofi meditation",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003795c730b811dab9d5f96f193",
+        "id": "37i9dQZF1DWURfu7Lk3xJ1"
+    },
+    {
+        "name": "Mellow Lofi Morning",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000353123a983953defa806738e8",
+        "id": "37i9dQZF1DX6QClArDhvcW"
+    },
+    {
+        "name": "Calming Acoustic",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000390b31bdc0f3a0ae203242fbc",
+        "id": "37i9dQZF1DXaImRpG7HXqp"
+    },
+    {
+        "name": "Calming Jazz",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000035dbdc64df7f31edc3b94d2cd",
+        "id": "37i9dQZF1DX0ZgPbUQ205W"
+    },
+    {
+        "name": "Best of EQUAL Greece 2022",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000346293837bc4d0c5631f278ef",
+        "id": "37i9dQZF1DX9H4ZHqhys8z"
+    },
+    {
+        "name": "Top Artists of EQUAL Global 2022",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b1e49d8c1964dadf14660e80",
+        "id": "37i9dQZF1DWU8quswnFt3c"
+    },
+    {
+        "name": "EQUAL Indie",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d59cfd3cdb0fc6047ba4daba",
+        "id": "37i9dQZF1DX91UQmVbQYyN"
+    },
+    {
+        "name": "Women of Electronic",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000037fa907fbf7bbe25e88ae83b7",
+        "id": "37i9dQZF1DX9WbnZpHWMaI"
+    },
+    {
+        "name": "EQUAL K-Pop: Best of 2022",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000320220c8fb285e7b442632511",
+        "id": "37i9dQZF1DX6Cy4Vr7Hu2y"
+    },
+    {
+        "name": "EQUAL: Jazz",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b9aed8529b13f9a9199acc1c",
+        "id": "37i9dQZF1DX5OepaGriAIm"
+    },
+    {
+        "name": "EQUAL Ambient",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b0bee549b9181432d45b81ae",
+        "id": "37i9dQZF1DWWwGws5Po6YO"
+    },
+    {
+        "name": "Equal Punjabi Pop",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003147ac2825145a2f18ea926c4",
+        "id": "37i9dQZF1DWSElo6PPUdZk"
+    },
+    {
+        "name": "EQUAL New Age",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003ea4317b08ef4de5ee09a5e88",
+        "id": "37i9dQZF1DX7QGYV9jyeOE"
+    },
+    {
+        "name": "Women of Pop",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000039d6301bdf33c5625f229c1fd",
+        "id": "37i9dQZF1DX3WvGXE8FqYX"
+    },
+    {
+        "name": "EQUAL: Classical",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036fb93cfa8f1632c9894adcab",
+        "id": "37i9dQZF1DX5hL1aT2vhMb"
+    },
+    {
+        "name": "EQUAL Bollywood",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000035ff8b83491d62eddcb9c9359",
+        "id": "37i9dQZF1DXdqa0kq6SUk4"
+    },
+    {
+        "name": "EQUAL Indie India",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a5814c2405c030fc612466e7",
+        "id": "37i9dQZF1DX8L7X8ygrKis"
+    },
+    {
+        "name": "Women of Rock",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003fadfc3e6b2311cf7c74a6101",
+        "id": "37i9dQZF1DXd0ZFXhY0CRF"
+    },
+    {
+        "name": "Mujeres del Indie",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003cc2c3a5ea59e2537b12df77b",
+        "id": "37i9dQZF1DXdHPp93Fnfds"
+    },
+    {
+        "name": "Mujeres del Folklore",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000320ab08fee015a823c5d9d369",
+        "id": "37i9dQZF1DWSwZRNpP8kqb"
+    },
+    {
+        "name": "Women of Latin",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036f355cb3a2d7d81dd4d36377",
+        "id": "37i9dQZF1DXb1fcDuOYLYU"
+    },
+    {
+        "name": "Mujeres del Tango",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003bae3967ed7b3a6c1afd5242f",
+        "id": "37i9dQZF1DWZSDaI0ox0Nq"
+    },
+    {
+        "name": "Women of Acoustic",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000334b572b489765a2e229ccc3e",
+        "id": "37i9dQZF1DX7XF2hFaHoss"
+    },
+    {
+        "name": "Rockeras",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000035db372b84e9fc2ca81065d19",
+        "id": "37i9dQZF1DXbFNjGW0o442"
+    },
+    {
+        "name": "Chill Hits",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000308ca740941aa65b5e205c361",
+        "id": "37i9dQZF1DX4WYpdgoIcn6"
+    },
+    {
+        "name": "Jazz in the Background",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036808b15e5db5e5569aae1471",
+        "id": "37i9dQZF1DWV7EzJMK2FUI"
+    },
+    {
+        "name": "lofi beats",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003abaf6c3c6a4b29f8a4565a86",
+        "id": "37i9dQZF1DWWQRwui0ExPn"
+    },
+    {
+        "name": "Chill Tracks",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003aa3d57de0916a2fe3dc6fd56",
+        "id": "37i9dQZF1DX6VdMW310YC7"
+    },
+    {
+        "name": "Deep House Relax",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000336b7c4ece12f6a254f41d5c1",
+        "id": "37i9dQZF1DX2TRYkJECvfC"
+    },
+    {
+        "name": "Easy Jazz",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000390d8df7e39072c0ce27be78d",
+        "id": "37i9dQZF1DWT4nLmUaFDGb"
+    },
+    {
+        "name": "Late Night Jazz",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003987367cd09caff68b5fa34ec",
+        "id": "37i9dQZF1DX4wta20PHgwo"
+    },
+    {
+        "name": "Calming Classical",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d4d256fb7cfeb0f512e6c1d1",
+        "id": "37i9dQZF1DWVFeEut75IAL"
+    },
+    {
+        "name": "Piano Ballads",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000394bc9666fa5fcb6f31b1cde8",
+        "id": "37i9dQZF1DWVIzZt2GAU4X"
+    },
+    {
+        "name": "late night vibes",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000033df638bf5c33922ceb4c185a",
+        "id": "37i9dQZF1DXdQvOLqzNHSW"
+    },
+    {
+        "name": "Comfort Zone",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a86f06fb337166fc5047efee",
+        "id": "37i9dQZF1DWYWddJiPzbvb"
+    },
+    {
+        "name": "slowed and reverbed",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003153666f68ec6c5e7970192e4",
+        "id": "37i9dQZF1DX0h2LvJ7ZJ15"
+    },
+    {
+        "name": "Trip Hop",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036febbf7da96f977230c7c840",
+        "id": "37i9dQZF1DWVXbA4kjkg6G"
+    },
+    {
+        "name": "Just Chill",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003719586de761e1ff231672faa",
+        "id": "37i9dQZF1DX0FJ8JYkqiJu"
+    },
+    {
+        "name": "Soft 10s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000375ccecb5e095fb4cc3688bf8",
+        "id": "37i9dQZF1DX1uHCeFHcn8X"
+    },
+    {
+        "name": "Stress Relief",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003468762ec9fd93a2dc3b167ee",
+        "id": "37i9dQZF1DWXe9gFZP0gtP"
+    },
+    {
+        "name": "Jazz Vibes",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000035ea54b91b073c2776b966e7b",
+        "id": "37i9dQZF1DX0SM0LYsmbMT"
+    },
+    {
+        "name": "lofi cafe",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003f9ad4061443b5652521d1035",
+        "id": "37i9dQZF1DX9RwfGbeGQwP"
+    },
+    {
+        "name": "Chill Vibes",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003f2d08778548e125bcb867692",
+        "id": "37i9dQZF1DX889U0CL85jj"
+    },
+    {
+        "name": "Soft 80s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000038bab6bbdd78dd09592b45573",
+        "id": "37i9dQZF1DX4WELsJtFZjZ"
+    },
+    {
+        "name": "Beast Mode",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000039249b35f23fb596b6f006a15",
+        "id": "37i9dQZF1DX76Wlfdnj7AP"
+    },
+    {
+        "name": "Rap Gymnastiki",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003194ff4fb7d1ecbdb21062d0b",
+        "id": "37i9dQZF1DWY6KI7pQhfpj"
+    },
+    {
+        "name": "Motivation Mix",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000035f2635e031078672e7b384a5",
+        "id": "37i9dQZF1DXdxcBWuJkbcy"
+    },
+    {
+        "name": "Power Workout",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000035b9afc20f73de2953ea450f7",
+        "id": "37i9dQZF1DWUVpAXiEPK8P"
+    },
+    {
+        "name": "Rap Workout",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000030b5dffb6f645059b157fc77b",
+        "id": "37i9dQZF1DX76t638V6CA8"
+    },
+    {
+        "name": "Beast Mode Hip-Hop",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000361b26b89e63392ad9955ce82",
+        "id": "37i9dQZF1DX9oh43oAzkyx"
+    },
+    {
+        "name": "Cardio",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003eee1365954b35d0def7bb1b5",
+        "id": "37i9dQZF1DWSJHnPb1f0X3"
+    },
+    {
+        "name": "Daily Lift",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000379b71c14d0de6559395718b1",
+        "id": "37i9dQZF1DWU13kKnk03AP"
+    },
+    {
+        "name": "Workout",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000039cc6891dbc9b7292361bd673",
+        "id": "37i9dQZF1DX70RN3TfWWJh"
+    },
+    {
+        "name": "Power Hour",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a0771224543218ad74dc1c7b",
+        "id": "37i9dQZF1DX32NsLKyzScr"
+    },
+    {
+        "name": "Locked In",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000038902742c4dcad187aa82bbd5",
+        "id": "37i9dQZF1DWTl4y3vgJOXW"
+    },
+    {
+        "name": "Adrenaline Workout",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000368c6d3646278eb57046b8aba",
+        "id": "37i9dQZF1DXe6bgV3TmZOL"
+    },
+    {
+        "name": "Hype",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003359b521f1a895103522edde9",
+        "id": "37i9dQZF1DX4eRPd9frC1m"
+    },
+    {
+        "name": "Yoga & Meditation",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e5109542b131e1a056871137",
+        "id": "37i9dQZF1DX9uKNf5jGX6m"
+    },
+    {
+        "name": "Techno Workout",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000359897aa657e98c9886c54e8f",
+        "id": "37i9dQZF1DX36TRAnIL92N"
+    },
+    {
+        "name": "You Can Do It",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000311c98457b215ef7072728ec2",
+        "id": "37i9dQZF1DX1gcrZ1xC96D"
+    },
+    {
+        "name": "Fun Run",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003ace81b7196d88005082b0f72",
+        "id": "37i9dQZF1DXadOVCgGhS7j"
+    },
+    {
+        "name": "Latin Cardio",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000300eeb193986d6ae683a72a4a",
+        "id": "37i9dQZF1DWXmQEAjlxGhi"
+    },
+    {
+        "name": "Run This Town",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000033f22beb2471ef8949bb95d97",
+        "id": "37i9dQZF1DWWPcvnOpPG3x"
+    },
+    {
+        "name": "ROCK 'N' RUN",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000351ebc57eaff41a7723bff927",
+        "id": "37i9dQZF1DWXx3Txis2L4x"
+    },
+    {
+        "name": "Rock This",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000030aa5d85eb3705a6b4faba37d",
+        "id": "37i9dQZF1DXcF6B6QPhFDv"
+    },
+    {
+        "name": "Alt NOW",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b0648c3d48d76e84e5c91842",
+        "id": "37i9dQZF1DWVqJMsgEN0F4"
+    },
+    {
+        "name": "Rock This Presents... Best Rock & Alt Songs of 2022",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b6f582f55061129e0eb3598f",
+        "id": "37i9dQZF1DX8YNmLOBjUmx"
+    },
+    {
+        "name": "All New Rock",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a2f4478d156b107eac01674c",
+        "id": "37i9dQZF1DWZryfp6NSvtz"
+    },
+    {
+        "name": "The Locker",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000033e323e2992e803315b509880",
+        "id": "37i9dQZF1DWYmDNATMglFU"
+    },
+    {
+        "name": "misfits 2.0",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000034b5fb715a9f505880da2ec3d",
+        "id": "37i9dQZF1DXciq74vrQmM8"
+    },
+    {
+        "name": "The New Alt",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a4ca48a64c2d7c1bb11d0080",
+        "id": "37i9dQZF1DX82GYcclJ3Ug"
+    },
+    {
+        "name": "Rock Hard",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000034cb18267254ab8e1c1e23dcb",
+        "id": "37i9dQZF1DWWJOmJ7nRx0C"
+    },
+    {
+        "name": "New Noise",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d84a2073b2653af94fa6186d",
+        "id": "37i9dQZF1DWT2jS7NwYPVI"
+    },
+    {
+        "name": "Rock Frequency",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003391176dc4d5cdb6d6f6b4397",
+        "id": "37i9dQZF1DX14rbJEM3cke"
+    },
+    {
+        "name": "feedBack",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000038eb5209ccc9ca8219f7b06e6",
+        "id": "37i9dQZF1DXbmErmrio5En"
+    },
+    {
+        "name": "Legends Only",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b802041d7e31710056a1a2e0",
+        "id": "37i9dQZF1DX5a39zUmS7Hn"
+    },
+    {
+        "name": "Alternative Noise",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000035a0bdeefd7dc24d27f658415",
+        "id": "37i9dQZF1DWTBN71pVn2Ej"
+    },
+    {
+        "name": "This Is The Beatles",
+        "owner": "Spotify",
+        "image": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO2iBPiw-large.jpg",
+        "id": "37i9dQZF1DZ06evO2iBPiw"
+    },
+    {
+        "name": "This Is AC/DC",
+        "owner": "Spotify",
+        "image": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO49hLQA-large.jpg",
+        "id": "37i9dQZF1DZ06evO49hLQA"
+    },
+    {
+        "name": "This Is The Rolling Stones",
+        "owner": "Spotify",
+        "image": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO19s0CZ-large.jpg",
+        "id": "37i9dQZF1DZ06evO19s0CZ"
+    },
+    {
+        "name": "This Is Queen",
+        "owner": "Spotify",
+        "image": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO0ENBD2-large.jpg",
+        "id": "37i9dQZF1DZ06evO0ENBD2"
+    },
+    {
+        "name": "This Is Pink Floyd",
+        "owner": "Spotify",
+        "image": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO07zaak-large.jpg",
+        "id": "37i9dQZF1DZ06evO07zaak"
+    },
+    {
+        "name": "This Is Led Zeppelin",
+        "owner": "Spotify",
+        "image": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO1NyWWI-large.jpg",
+        "id": "37i9dQZF1DZ06evO1NyWWI"
+    },
+    {
+        "name": "This Is Jimi Hendrix",
+        "owner": "Spotify",
+        "image": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO4cWDcc-large.jpg",
+        "id": "37i9dQZF1DZ06evO4cWDcc"
+    },
+    {
+        "name": "Dance Party",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003310432fef1cad89faa1ccc1b",
+        "id": "37i9dQZF1DXaXB8fQg7xif"
+    },
+    {
+        "name": "Get Turnt",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d223680ce7ace76bfb350346",
+        "id": "37i9dQZF1DWY4xHQp97fN6"
+    },
+    {
+        "name": "Throwback Party",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e1c405b93e4d38debc7b7c90",
+        "id": "37i9dQZF1DX7F6T2n2fegs"
+    },
+    {
+        "name": "Party Hits 2000s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003128b6654e84ef4cffba70489",
+        "id": "37i9dQZF1DX7e8TjkFNKWH"
+    },
+    {
+        "name": "90s Party",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a9a7853641d94519d81f1a3c",
+        "id": "37i9dQZF1DXdo6A3mWpdWx"
+    },
+    {
+        "name": "House Party",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e55b410beda0d7cb62b648d8",
+        "id": "37i9dQZF1DXd5DCuoVuFY3"
+    },
+    {
+        "name": "Old School Hip-Hop House Party",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000304920365f870708dd107711e",
+        "id": "37i9dQZF1DX30w0JtSIv4j"
+    },
+    {
+        "name": "Feelin' Myself",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003755ed199ce13f49e48fdf22f",
+        "id": "37i9dQZF1DX6GwdWRQMQpq"
+    },
+    {
+        "name": "Party Hits 2010s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000030b3215962492991ff8354ee5",
+        "id": "37i9dQZF1DWWylYLMvjuRG"
+    },
+    {
+        "name": "Girls' Night",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d3a0894b5ce105311d8479cd",
+        "id": "37i9dQZF1DX0Uv9tZ47pWo"
+    },
+    {
+        "name": "Rock Party",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000337ddb11424d6babc80f304ac",
+        "id": "37i9dQZF1DX8FwnYE6PRvL"
+    },
+    {
+        "name": "Baila Reggaeton",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d42bbcff2d07404bbe3b6050",
+        "id": "37i9dQZF1DWY7IeIP1cdjF"
+    },
+    {
+        "name": "80s Party",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000032769f36666942e5ffa4c1767",
+        "id": "37i9dQZF1DX6xnkAwJX7tn"
+    },
+    {
+        "name": "Throwback Jams",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003467a3d6426a2a09dbd344a07",
+        "id": "37i9dQZF1DX8ky12eWIvcW"
+    },
+    {
+        "name": "Shuffle Syndrome",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000030044dadbf7cf1f1fed17ef61",
+        "id": "37i9dQZF1DWUq3wF0JVtEy"
+    },
+    {
+        "name": "Tulum Party",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003561162d31298b864de0f9cd6",
+        "id": "37i9dQZF1DX4IlXDVSi4zz"
+    },
+    {
+        "name": "Dance Classics",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003377cd62f388e2de7c3b2b08c",
+        "id": "37i9dQZF1DX8a1tdzq5tbM"
+    },
+    {
+        "name": "Football Anthems",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003614f5aede0f5dba72a5a7dcf",
+        "id": "37i9dQZF1DXaoALgva1Aqr"
+    },
+    {
+        "name": "DJ D-Nice's Homeschool",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000037d749cc3697e048e5c91d695",
+        "id": "37i9dQZF1DX8Lj01u3MgX5"
+    },
+    {
+        "name": "Summer Throwback",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003858e9388631d9f3f5eaa5fca",
+        "id": "37i9dQZF1DXd1MXcE8WTXq"
+    },
+    {
+        "name": "Jazz in the Background",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036808b15e5db5e5569aae1471",
+        "id": "37i9dQZF1DWV7EzJMK2FUI"
+    },
+    {
+        "name": "lofi beats",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003abaf6c3c6a4b29f8a4565a86",
+        "id": "37i9dQZF1DWWQRwui0ExPn"
+    },
+    {
+        "name": "Peaceful Piano",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003ca5a7517156021292e5663a6",
+        "id": "37i9dQZF1DX4sWSpwq3LiO"
+    },
+    {
+        "name": "White Noise",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003fb21c7706fe265bea8ec5a69",
+        "id": "37i9dQZF1DWUZ5bk6qqDSy"
+    },
+    {
+        "name": "chill lofi study beats",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000035b0a7b8408322a3b9ed15e1e",
+        "id": "37i9dQZF1DX8Uebhn9wzrS"
+    },
+    {
+        "name": "Deep Focus",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000035551996f500ba876bda73fa5",
+        "id": "37i9dQZF1DWZeKCadgRdKQ"
+    },
+    {
+        "name": "Jazz for Study",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000032589b0e56e67d79ba9721912",
+        "id": "37i9dQZF1DX3SiCzCxMDOH"
+    },
+    {
+        "name": "Jazz Vibes",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000035ea54b91b073c2776b966e7b",
+        "id": "37i9dQZF1DX0SM0LYsmbMT"
+    },
+    {
+        "name": "Workday Lounge",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e435ce0a86a8b9dc24527618",
+        "id": "37i9dQZF1DWT5lkChsPmpy"
+    },
+    {
+        "name": "Coding Mode  ",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003863b311d4b787ed621f7e696",
+        "id": "37i9dQZF1DX5trt9i14X7j"
+    },
+    {
+        "name": "Reading Soundtrack",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000343ff9e8e76a553c0dc258e59",
+        "id": "37i9dQZF1DWZwtERXCS82H"
+    },
+    {
+        "name": "Brain Food",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000031df043181e0a5b20707ce3a9",
+        "id": "37i9dQZF1DWXLeA8Omikj7"
+    },
+    {
+        "name": "Intense Studying",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000346bd1bd5d9990da7dae58ccc",
+        "id": "37i9dQZF1DX8NTLI2TtZa6"
+    },
+    {
+        "name": "Coffee Beats",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003f7a4933fe33e7bc60206f5c5",
+        "id": "37i9dQZF1DX1uaml3UXYLk"
+    },
+    {
+        "name": "All-Nighter",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003ead4817dd31ba77404f5d7c4",
+        "id": "37i9dQZF1DX692WcMwL2yW"
+    },
+    {
+        "name": "Not Quite Classical",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003cecb0dac1f9b563ca9ab3704",
+        "id": "37i9dQZF1DWSw8liJZcPOI"
+    },
+    {
+        "name": "Instrumental Study",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000035d87659dcadef82dd0e73f56",
+        "id": "37i9dQZF1DX9sIqqvKsjG8"
+    },
+    {
+        "name": "Calm Before the Storm",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003ff55ef0570b629a51bfc43f4",
+        "id": "37i9dQZF1DWWTdxbiocWOL"
+    },
+    {
+        "name": "Creative Focus",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000035a6fe5537cca0bb20e6abc5f",
+        "id": "37i9dQZF1DWWn6teJIIcfG"
+    },
+    {
+        "name": "Mozart for Study",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036e120a4000f65958ceff8d7c",
+        "id": "37i9dQZF1DWXUpC6mczRpA"
+    },
+    {
+        "name": "Sleep",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003bc9438e3a6ff78076f8b1405",
+        "id": "37i9dQZF1DWZd79rJ6a7lp"
+    },
+    {
+        "name": "Deep Sleep",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000037da11e4e02c0da2f543ea20f",
+        "id": "37i9dQZF1DWYcDQ1hSjOpY"
+    },
+    {
+        "name": "Baby Sleep",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000035683edf3bef4a94327e7b050",
+        "id": "37i9dQZF1DX0DxcHtn4Hwo"
+    },
+    {
+        "name": "Night Rain",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003dc76d6a6908be4eae4f86b7e",
+        "id": "37i9dQZF1DXbcPC6Vvqudd"
+    },
+    {
+        "name": "Atmospheric Piano",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003cc6dd483e6ee07e1d2b4d082",
+        "id": "37i9dQZF1DWURCUKHUKWCX"
+    },
+    {
+        "name": "Dreamy Vibes",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000330467941c9bd06613be27c9e",
+        "id": "37i9dQZF1DWSiZVO2J6WeI"
+    },
+    {
+        "name": "Jazz for Sleep",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003008092db062ae57983ed0141",
+        "id": "37i9dQZF1DXa1rZf8gLhyz"
+    },
+    {
+        "name": "Nightstorms",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003f86e0ffd52b324b3c455b185",
+        "id": "37i9dQZF1DX4aYNO8X5RpR"
+    },
+    {
+        "name": "lofi sleep",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000037e858e4098c8a256ca51d770",
+        "id": "37i9dQZF1DX2PQDq3PdrHQ"
+    },
+    {
+        "name": "Floating Through Space",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003293f5bac477b87de316e75aa",
+        "id": "37i9dQZF1DX1n9whBbBKoL"
+    },
+    {
+        "name": "Classical Sleep",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000039da02c7bb7aeaad9222968f1",
+        "id": "37i9dQZF1DX8Sz1gsYZdwj"
+    },
+    {
+        "name": "Fall Asleep",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003685e0e6bbb5974f3e724bad6",
+        "id": "37i9dQZF1DX3WdioUzkg8I"
+    },
+    {
+        "name": "Sleepy Piano",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003df3ed0d891ac979568452312",
+        "id": "37i9dQZF1DX03b46zi3S82"
+    },
+    {
+        "name": "Guitar for Sleep",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000037eeed92b1076dbd0a237befb",
+        "id": "37i9dQZF1DWTRnup1IgL4a"
+    },
+    {
+        "name": "Harp Lullabies",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000030a66e3c6acd17caf7fc2df88",
+        "id": "37i9dQZF1DX2y5WZJJL4SF"
+    },
+    {
+        "name": "Sleep Noise",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d76b7c4756730e3a08e6c7a2",
+        "id": "37i9dQZF1DWSW4ppn40bal"
+    },
+    {
+        "name": "Lullaby Jazz",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003796f270e839e6cbffa270739",
+        "id": "37i9dQZF1DX2WtjAdkiMga"
+    },
+    {
+        "name": "City Sounds for Sleep",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003436d432eb292516ef3ee425f",
+        "id": "37i9dQZF1DWZwRv0cVNFLv"
+    },
+    {
+        "name": "Sleep Tight",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000030f6ff46c7d583ad3beaf5adb",
+        "id": "37i9dQZF1DWSUFOo47GEsI"
+    },
+    {
+        "name": "Guitar Lullabies",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000384418ccfe126030f1eb509ff",
+        "id": "37i9dQZF1DX2UkbeRPWQqZ"
+    },
+    {
+        "name": "French Jazz Café",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b8e8d5fbe2d62f9e18c3bbc3",
+        "id": "37i9dQZF1DXbehaqJzJXqw"
+    },
+    {
+        "name": "Mexican Restaurant",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000032ca7bf01da4fcaa59aa42abd",
+        "id": "37i9dQZF1DWVtmGxs4S4N7"
+    },
+    {
+        "name": "Dinner with Friends",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000030618820689fd474a2a2d4680",
+        "id": "37i9dQZF1DX4xuWVBs4FgJ"
+    },
+    {
+        "name": "Café de Paris",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003bc65c7905b017dc0fb28a17d",
+        "id": "37i9dQZF1DX0ZO4kBlpsIH"
+    },
+    {
+        "name": "Kitchen Swagger",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000038dc9fe0c14e5f34ad165e3c2",
+        "id": "37i9dQZF1DX2FsCLsHeMrM"
+    },
+    {
+        "name": "Beer & Wings",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000034b04e77913de1fc2a4b819df",
+        "id": "37i9dQZF1DXauOWFg72pbl"
+    },
+    {
+        "name": "Café Cubano",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d142d7feb73b11db237b11e8",
+        "id": "37i9dQZF1DWZLN2cXno63R"
+    },
+    {
+        "name": "The Perfect Italian Dinner",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003c294a27b8c4fc98462b8b6a9",
+        "id": "37i9dQZF1DWT1R6bXL4dyW"
+    },
+    {
+        "name": "Feel Good Dinner",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000032ba865eb4204be02ce3e8e09",
+        "id": "37i9dQZF1DXbm6HfkbMtFZ"
+    },
+    {
+        "name": "Jazzy Dinner",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000034311976b3775ca3ab337366c",
+        "id": "37i9dQZF1DWTALrdBtcXjw"
+    },
+    {
+        "name": "Coffee and Piano",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003dfd8b99086f2c703cc76a1f1",
+        "id": "37i9dQZF1DX3TPMgP3ojGS"
+    },
+    {
+        "name": "Dinner Music",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003df69720bbead04d106b7182e",
+        "id": "37i9dQZF1DXatMjChPKgBk"
+    },
+    {
+        "name": "Jukebox Joint",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b93c270883619dde61725fc8",
+        "id": "37i9dQZF1DXbvE0SE0Cczh"
+    },
+    {
+        "name": "Trattoria Italiana",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000038f5b76f8ef9cc05c334bf472",
+        "id": "37i9dQZF1DWSy1uHq5qF1L"
+    },
+    {
+        "name": "Date Night Jazz",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000388e765bc2b31db5a148a35b2",
+        "id": "37i9dQZF1DX6ZiG5Dz8cUM"
+    },
+    {
+        "name": "Cocktail Jazz",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003571306b357f874e35f867dbf",
+        "id": "37i9dQZF1DWU6MDxlH7Sr1"
+    },
+    {
+        "name": "Bossa Nova Dinner",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003dd9acb211caf8703ea9bfc98",
+        "id": "37i9dQZF1DWVleyMkaelTd"
+    },
+    {
+        "name": "Classical Cooking",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003251df2e1a118d0b3802ebd7c",
+        "id": "37i9dQZF1DXdLD1ufgw60J"
+    },
+    {
+        "name": "Spanish Tapas Bar",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000035da9dfe022b2678bf713cb73",
+        "id": "37i9dQZF1DX5Vpt0fhumU1"
+    },
+    {
+        "name": "Dinner Piano",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003bed166f025875f061252ff38",
+        "id": "37i9dQZF1DWZVU32KsYGUK"
+    },
+    {
+        "name": "Cozy Jazz",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003134f50fde24ba8b7c1ada8d6",
+        "id": "37i9dQZF1DX52ln8eMkne9"
+    },
+    {
+        "name": "Easy Jazz",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000390d8df7e39072c0ce27be78d",
+        "id": "37i9dQZF1DWT4nLmUaFDGb"
+    },
+    {
+        "name": "Jazzy Beats",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000038fd7616de13706b9f08051e1",
+        "id": "37i9dQZF1DWVw7xU7q62kt"
+    },
+    {
+        "name": "Smooth Jazz Chill",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000039c783de1ce72ea1d16f03364",
+        "id": "37i9dQZF1DX6lttj7ulLd6"
+    },
+    {
+        "name": "Jazz Classics Blue Note Edition",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d2ab3b2e61c093ee2e58abd2",
+        "id": "37i9dQZF1DWTR4ZOXTfd9K"
+    },
+    {
+        "name": "Sad Jazz",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003af85b54d6db2ed42f429a142",
+        "id": "37i9dQZF1DX0aiWQDFamDa"
+    },
+    {
+        "name": "Jazz Classics",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b6cad14f125aff6d04d0c081",
+        "id": "37i9dQZF1DXbITWG1ZJKYt"
+    },
+    {
+        "name": "Relaxing Jazz Piano",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003492ee5efc74d0fc2dd7ec318",
+        "id": "37i9dQZF1DWWfxnl2EyBbd"
+    },
+    {
+        "name": "Just Jazz",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000030763f52d6a3fcdda629ca965",
+        "id": "37i9dQZF1DXe0UXHUfHinR"
+    },
+    {
+        "name": "State of Jazz",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036dce23cab03416b56d5a882d",
+        "id": "37i9dQZF1DX7YCknf2jT6s"
+    },
+    {
+        "name": "Coffee Table Jazz",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000033e7580e54c5e6672d564f170",
+        "id": "37i9dQZF1DWVqfgj8NZEp1"
+    },
+    {
+        "name": "Sweet Jazz",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000388bcde2290c510c71c42eeea",
+        "id": "37i9dQZF1DWWMGLiuK4OqL"
+    },
+    {
+        "name": "Jazz in the Background",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036808b15e5db5e5569aae1471",
+        "id": "37i9dQZF1DWV7EzJMK2FUI"
+    },
+    {
+        "name": "Jazz Classics",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b6cad14f125aff6d04d0c081",
+        "id": "37i9dQZF1DXbITWG1ZJKYt"
+    },
+    {
+        "name": "Easy Jazz",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000390d8df7e39072c0ce27be78d",
+        "id": "37i9dQZF1DWT4nLmUaFDGb"
+    },
+    {
+        "name": "Cozy Jazz",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003134f50fde24ba8b7c1ada8d6",
+        "id": "37i9dQZF1DX52ln8eMkne9"
+    },
+    {
+        "name": "Late Night Jazz",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003987367cd09caff68b5fa34ec",
+        "id": "37i9dQZF1DX4wta20PHgwo"
+    },
+    {
+        "name": "Coffee Table Jazz",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000033e7580e54c5e6672d564f170",
+        "id": "37i9dQZF1DWVqfgj8NZEp1"
+    },
+    {
+        "name": "Good Morning Jazz",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b37a64d4481ea5ba98d5ae4a",
+        "id": "37i9dQZF1DX71VcjjnyaBQ"
+    },
+    {
+        "name": "French Jazz Café",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b8e8d5fbe2d62f9e18c3bbc3",
+        "id": "37i9dQZF1DXbehaqJzJXqw"
+    },
+    {
+        "name": "Are & Be",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000030405fb3046c7a9d470240a3f",
+        "id": "37i9dQZF1DX4SBhb3fqCJd"
+    },
+    {
+        "name": "I Love My '10s R&B",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000037798dcab2a666dd4314972d0",
+        "id": "37i9dQZF1DWXbttAJcbphz"
+    },
+    {
+        "name": "Gold Edition",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003abcf4c86bcde5afc56cf90ed",
+        "id": "37i9dQZF1DWXnexX7CktaI"
+    },
+    {
+        "name": "Channel-X",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000339a158a4c2dfc69d1660eebf",
+        "id": "37i9dQZF1DX4y8h9WqDPAE"
+    },
+    {
+        "name": "Bedroom Jams",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000039fec2373847cde79dcdba5b5",
+        "id": "37i9dQZF1DX0QKpU3cGsyb"
+    },
+    {
+        "name": "I Love My '00s R&B",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e3bdd8f4b3c564f886a76720",
+        "id": "37i9dQZF1DWYmmr74INQlb"
+    },
+    {
+        "name": "Funk Outta Here",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000031680a8b576d55e90a1122fcb",
+        "id": "37i9dQZF1DX70TzPK5buVf"
+    },
+    {
+        "name": "I Love My '90s R&B",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000305f7f5310893c93ba66b4514",
+        "id": "37i9dQZF1DX6VDO8a6cQME"
+    },
+    {
+        "name": "mid:nite storm ",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e183c5dacdc903d6cf861911",
+        "id": "37i9dQZF1DWYiatDTQvsFP"
+    },
+    {
+        "name": "Chilled R&B",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000379ab16d741f8f302847e6735",
+        "id": "37i9dQZF1DX2UgsUIg75Vg"
+    },
+    {
+        "name": "DJ D-Nice's Homeschool",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000037d749cc3697e048e5c91d695",
+        "id": "37i9dQZF1DX8Lj01u3MgX5"
+    },
+    {
+        "name": "This Is How We Do",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000037cfbdeea32e27baa12be4359",
+        "id": "37i9dQZF1DX4a0nQYnltiQ"
+    },
+    {
+        "name": "New Jams",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003c442e3ea99cc88cd185cbb7c",
+        "id": "37i9dQZF1DWUzFXarNiofw"
+    },
+    {
+        "name": "Queen",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000032e2fee5a9f85b856105015a2",
+        "id": "37i9dQZF1DWSIO2QWRavWZ"
+    },
+    {
+        "name": "Soul Coffee",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003f2de418f550899021c7cabd0",
+        "id": "37i9dQZF1DXaXDsfv6nvZ5"
+    },
+    {
+        "name": "Alternative R&B",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003cd96d886f2bac4e4d1197df9",
+        "id": "37i9dQZF1DWSfMe9z89s9B"
+    },
+    {
+        "name": "Soul Lounge",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036e1034ebd7b7c86546c6acca",
+        "id": "37i9dQZF1DX62Nfha2yFhL"
+    },
+    {
+        "name": "Fresh Finds R&B: Best of 2022",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000031b4d9ccc676b571be2ed9ce0",
+        "id": "37i9dQZF1DWUFAJPVM3HTX"
+    },
+    {
+        "name": "'90s Baby Makers",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000039d574d6f27a73e668fee93ef",
+        "id": "37i9dQZF1DWVEvzGeX3eRs"
+    },
+    {
+        "name": "I Love My Neo-Soul",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003739f228f92c6a66c66de2b16",
+        "id": "37i9dQZF1DX8MbMfAHb8U0"
+    },
+    {
+        "name": "goosebumps",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000030d5e6f861f423ecfac53610b",
+        "id": "37i9dQZF1DXdl6IPOySdX4"
+    },
+    {
+        "name": "The Most Romantic Songs in the World",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003370a00e7c582127633899606",
+        "id": "37i9dQZF1DWXb9I5xoXLjp"
+    },
+    {
+        "name": "Love Ballads",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000039b3fa75b9db6739d0f01d333",
+        "id": "37i9dQZF1DWYMvTygsLWlG"
+    },
+    {
+        "name": "All The Feels",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003dbb6e66ee0b3b84a812e37b0",
+        "id": "37i9dQZF1DX7gIoKXt0gmx"
+    },
+    {
+        "name": "Erotika ki Ellinika",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a7a18a36620ae682321cb19f",
+        "id": "37i9dQZF1DX0uPfbEFQ47r"
+    },
+    {
+        "name": "Romantic Ballads",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003fc4cd8ed9e6920c3164c72a3",
+        "id": "37i9dQZF1DX3tuWZaHjp5y"
+    },
+    {
+        "name": "Broken Heart",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000350f34f0e7a0b73effe02fa6f",
+        "id": "37i9dQZF1DXbrUpGvoi3TS"
+    },
+    {
+        "name": "80s Love Songs",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000039bf255bce421e5d880849a3b",
+        "id": "37i9dQZF1DXc3KygMa1OE7"
+    },
+    {
+        "name": "B.A.E.",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003cf5f80ed2e25e1819b46e8fe",
+        "id": "37i9dQZF1DWX3387IZmjNa"
+    },
+    {
+        "name": "You & Me",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000031aede1ba8a54598a84c1771f",
+        "id": "37i9dQZF1DX6mvEU1S6INL"
+    },
+    {
+        "name": "Bedroom Jams",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000039fec2373847cde79dcdba5b5",
+        "id": "37i9dQZF1DX0QKpU3cGsyb"
+    },
+    {
+        "name": "An Elegant Affair",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000038eabc0bfcddd16e63c847a0c",
+        "id": "37i9dQZF1DWVf1Phr4ZVgO"
+    },
+    {
+        "name": "Rock Love Songs",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000351da7f7f61f90b7bfe70e221",
+        "id": "37i9dQZF1DX7Z7kYpKKGTc"
+    },
+    {
+        "name": "Timeless Love Songs",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b91a46fe49103f8610b46068",
+        "id": "37i9dQZF1DX7rOY2tZUw1k"
+    },
+    {
+        "name": "Alternative Love Songs",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003fb027611e8101d7deec3c08a",
+        "id": "37i9dQZF1DWZIQpJDqCc10"
+    },
+    {
+        "name": "90s Love Songs",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003c8dc3f1c3e7c0c480157dff0",
+        "id": "37i9dQZF1DWXqpDKK4ed9O"
+    },
+    {
+        "name": "Couples In Love",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000038f3ea9eed950ac44de431c5e",
+        "id": "37i9dQZF1DX19jOGJFjAzV"
+    },
+    {
+        "name": "Crooner Classics",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000033e098b97552112554b048f96",
+        "id": "37i9dQZF1DX1cC4JrF1e4o"
+    },
+    {
+        "name": "Heart Beats",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000300982b0a2b59c246d3b1d46b",
+        "id": "37i9dQZF1DWSRc3WJklgBs"
+    },
+    {
+        "name": "10s Love Songs",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003f19c60dc990d28f4682d2e00",
+        "id": "37i9dQZF1DWVTfbQdQ8l7H"
+    },
+    {
+        "name": "Feelin' Good",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000313a02d059c0479e65a850267",
+        "id": "37i9dQZF1DX9XIFQuFvzM4"
+    },
+    {
+        "name": "Funk & Soul Classics",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e0113d1b6e16f0813877a9f9",
+        "id": "37i9dQZF1DWWvhKV4FBciw"
+    },
+    {
+        "name": "Uplifting Soul Classics",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003dd9bd386a29775a4e0600df9",
+        "id": "37i9dQZF1DWTx0xog3gN3q"
+    },
+    {
+        "name": "70s Soul Classics",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000033ba7b1c26fcc08f826d16bc4",
+        "id": "37i9dQZF1DWULEW2RfoSCi"
+    },
+    {
+        "name": "Sweet Soul Chillout",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d6554631a83f1e2b1207934f",
+        "id": "37i9dQZF1DXbcgQ8d7s0A0"
+    },
+    {
+        "name": "Funk Outta Here",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000031680a8b576d55e90a1122fcb",
+        "id": "37i9dQZF1DX70TzPK5buVf"
+    },
+    {
+        "name": "Soul 'n' the City",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003f7ec194824808bbc8d7200f3",
+        "id": "37i9dQZF1DWSXWSaQmvWOB"
+    },
+    {
+        "name": "Morning Rhythm",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000301a0c5ad76578be9a0f9feb7",
+        "id": "37i9dQZF1DX3ohNxI5tB79"
+    },
+    {
+        "name": "Soul Coffee",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003f2de418f550899021c7cabd0",
+        "id": "37i9dQZF1DXaXDsfv6nvZ5"
+    },
+    {
+        "name": "BUTTER",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000335f2d0b93422e58edc6b436a",
+        "id": "37i9dQZF1DWVzZlRWgqAGH"
+    },
+    {
+        "name": "Retro Soul",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e5ca870c85985a378e0a1007",
+        "id": "37i9dQZF1DWT7oUl2XAhgF"
+    },
+    {
+        "name": "Soulful Disco",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000038b2e7ba955590594ee01550e",
+        "id": "37i9dQZF1DXcAiMO5AYxE8"
+    },
+    {
+        "name": "Soul Lounge",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036e1034ebd7b7c86546c6acca",
+        "id": "37i9dQZF1DX62Nfha2yFhL"
+    },
+    {
+        "name": "Sad Soul",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003f2026ed61c42119733599954",
+        "id": "37i9dQZF1DXchlyaSeZp0q"
+    },
+    {
+        "name": "Acoustic Soul",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000364cd7dd11720c1f7f16fe82a",
+        "id": "37i9dQZF1DX5lDysu4GbKR"
+    },
+    {
+        "name": "Next Wave Soul",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000357457ca47628cff700e1ceb6",
+        "id": "37i9dQZF1DX44dZ4p5QLf4"
+    },
+    {
+        "name": "I Love My Neo-Soul",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003739f228f92c6a66c66de2b16",
+        "id": "37i9dQZF1DX8MbMfAHb8U0"
+    },
+    {
+        "name": "’80s Jam Session",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000037d78772695c52ba5d8ef6572",
+        "id": "37i9dQZF1DX0H8hDpv38Ju"
+    },
+    {
+        "name": "Sweet Soul Sunday",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a23f62642e53bdf19b977f84",
+        "id": "37i9dQZF1DX7QC1DnNqj3m"
+    },
+    {
+        "name": "Rare Soul Grooves",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003bd5c4c31416a3c15738283b0",
+        "id": "37i9dQZF1DXc9NQwLalzEM"
+    },
+    {
+        "name": "Best of borderless 2022",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003dfc64c89bfc38edcbb151b2b",
+        "id": "37i9dQZF1DXb2RUUTjIk3t"
+    },
+    {
+        "name": "The summer I turned indie",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e60b31ef525f60573e925507",
+        "id": "37i9dQZF1DX9cT3oxyoOVI"
+    },
+    {
+        "name": "Indie songs from 2022 you may have missed",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000399d519a0acefce64f169ff38",
+        "id": "37i9dQZF1DWZw4RckG6Eyg"
+    },
+    {
+        "name": "Best Indie Songs of 2022",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000393433469cd26278febee5a53",
+        "id": "37i9dQZF1DX0lyZ45Ayi9S"
+    },
+    {
+        "name": "Best Indie Songs of 2022",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000393433469cd26278febee5a53",
+        "id": "37i9dQZF1DX0lyZ45Ayi9S"
+    },
+    {
+        "name": "Essential Indie",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d5f3ee093b35fbd4e767bc39",
+        "id": "37i9dQZF1DX26DKvjp0s9M"
+    },
+    {
+        "name": "Early Alternative",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000357512b32852e92f3cc2d5c54",
+        "id": "37i9dQZF1DXdTCdwCKzXwo"
+    },
+    {
+        "name": "Dreampop Classics",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000034f1883bcac8e10d210f69d7f",
+        "id": "37i9dQZF1DXcNf6sH1qnKU"
+    },
+    {
+        "name": "The 2000s Indie Scene",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003732a8b20f00534714a0b5f22",
+        "id": "37i9dQZF1DX9LbdoYID5v7"
+    },
+    {
+        "name": " Indie Pop 2010s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003ece98f573dece1838e518379",
+        "id": "37i9dQZF1DXaLaoaQqrfyO"
+    },
+    {
+        "name": "Alternative 10s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000326100130f23ce048bc395b46",
+        "id": "37i9dQZF1DX873GaRGUmPl"
+    },
+    {
+        "name": "Shoegaze Classics",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003296aeddc9f01c0d09aa6fff9",
+        "id": "37i9dQZF1DX6ujZpAN0v9r"
+    },
+    {
+        "name": "Alternative 00s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000035ed4a7118d424c7c2c96cf68",
+        "id": "37i9dQZF1DX0YKekzl0blG"
+    },
+    {
+        "name": "Alternative 90s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036a0c859f0f2db43f538de1bd",
+        "id": "37i9dQZF1DXaLI8a395lse"
+    },
+    {
+        "name": "slowcore",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000031600b248463674971ca56ee1",
+        "id": "37i9dQZF1DX30gKInBBe5k"
+    },
+    {
+        "name": "Best Indie Songs of 2021",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000033ab369c3d6240e08f7529c1a",
+        "id": "37i9dQZF1DWW06b4n9Ho9J"
+    },
+    {
+        "name": "Best Indie Songs of 2020",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003136bf43c0db37b325562a657",
+        "id": "37i9dQZF1DWWkGXMGv9j4M"
+    },
+    {
+        "name": "Ultimate Indie Presents... Best Tracks of 2019",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000337cde70efa74a489d7bb3fff",
+        "id": "37i9dQZF1DWTc5QDlvD7t0"
+    },
+    {
+        "name": "Best of Indie 2010",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003462d3227d1d191d59b06125e",
+        "id": "37i9dQZF1DWULq23fLWDsl"
+    },
+    {
+        "name": "Best of Indie 2011",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036280d1ece4a2aceff7cd1726",
+        "id": "37i9dQZF1DX2Vedp1NjGn9"
+    },
+    {
+        "name": "Classical Essentials",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000304342edaafe98ad14f6b8b70",
+        "id": "37i9dQZF1DWWEJlAGA9gs0"
+    },
+    {
+        "name": "Classical New Releases",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000361cb396a218912c88a6f82ac",
+        "id": "37i9dQZF1DWV0gynK7G6pD"
+    },
+    {
+        "name": "Calming Classical",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d4d256fb7cfeb0f512e6c1d1",
+        "id": "37i9dQZF1DWVFeEut75IAL"
+    },
+    {
+        "name": "Pop Goes Classical",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a3ec66c3103d1aea84672888",
+        "id": "37i9dQZF1DWUPafHP1BJw1"
+    },
+    {
+        "name": "Dark Academia Classical",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d0758c30102c2c6c263f9305",
+        "id": "37i9dQZF1DX17GkScaAekA"
+    },
+    {
+        "name": "Classical Christmas",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000037415b95a07c4837e22478a5c",
+        "id": "37i9dQZF1DX4P0ijJK5lUv"
+    },
+    {
+        "name": "Classical Piano",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000032872394a93060e8ce415510e",
+        "id": "37i9dQZF1DWUqIzZNMSCv3"
+    },
+    {
+        "name": "Classical Cooking",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003251df2e1a118d0b3802ebd7c",
+        "id": "37i9dQZF1DXdLD1ufgw60J"
+    },
+    {
+        "name": "Reflection",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d592eaff29575040685c78db",
+        "id": "37i9dQZF1DWSZXCWJ6tnaz"
+    },
+    {
+        "name": "Feel Good Classical",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000032006c28bcecfda6c7495afa2",
+        "id": "37i9dQZF1DX5Lm1ZiObdc3"
+    },
+    {
+        "name": "Shimmering Strings",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003fdeb6f90938b6abd4b2cf858",
+        "id": "37i9dQZF1DX2XWJkYVfE4v"
+    },
+    {
+        "name": "Soft Piano",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000394ad9b0e019d201dacfddbae",
+        "id": "37i9dQZF1DX561TxkFttR4"
+    },
+    {
+        "name": "royalcore",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000038530024a14e258e0f37da364",
+        "id": "37i9dQZF1DX7Ope5RE4ePQ"
+    },
+    {
+        "name": "Baroque Classics",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003556350cd3212f4f57ca0d041",
+        "id": "37i9dQZF1DWXjj6kdiviS0"
+    },
+    {
+        "name": "Light Academia",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000033c3d868dc16e85481d2cfb45",
+        "id": "37i9dQZF1DX1jDTenPbqLo"
+    },
+    {
+        "name": "Calming Carols",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000349bc8ea6d4843c79ef0f10aa",
+        "id": "37i9dQZF1DX27YQi4aQ8cE"
+    },
+    {
+        "name": "The Classical Takeover: The Bocelli Family",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000325db783836139cc8d42e767d",
+        "id": "37i9dQZF1DWXtBjoO4Thyy"
+    },
+    {
+        "name": "Soundtracked",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000361f5fd08bdb2b490fc3b71ac",
+        "id": "37i9dQZF1DWW7gj0FcGEx6"
+    },
+    {
+        "name": "medieval vibes",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000034ba15f5d0a3e3eb612a5dc00",
+        "id": "37i9dQZF1DWXi6GqUgtvam"
+    },
+    {
+        "name": "Classical Romance",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000373e91788429eee625da30bae",
+        "id": "37i9dQZF1DX4s3V2rTswzO"
+    },
+    {
+        "name": "Rock Classics",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000033b52952432e3a6d3f517eb2e",
+        "id": "37i9dQZF1DWXRqgorJj26U"
+    },
+    {
+        "name": "Chill Hits",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000308ca740941aa65b5e205c361",
+        "id": "37i9dQZF1DX4WYpdgoIcn6"
+    },
+    {
+        "name": "Motivation Mix",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000035f2635e031078672e7b384a5",
+        "id": "37i9dQZF1DXdxcBWuJkbcy"
+    },
+    {
+        "name": "lofi beats",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003abaf6c3c6a4b29f8a4565a86",
+        "id": "37i9dQZF1DWWQRwui0ExPn"
+    },
+    {
+        "name": "Peaceful Piano",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003ca5a7517156021292e5663a6",
+        "id": "37i9dQZF1DX4sWSpwq3LiO"
+    },
+    {
+        "name": "Happy Hits!",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b55b6074da1d43715fc16d6d",
+        "id": "37i9dQZF1DXdPec7aLTmlC"
+    },
+    {
+        "name": "Feel-Good Indie Rock",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000032390c211511e2d985935b267",
+        "id": "37i9dQZF1DX2sUQwD7tbmL"
+    },
+    {
+        "name": "Peaceful Meditation",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000032a2910673147c2396516208a",
+        "id": "37i9dQZF1DWZqd5JICZI0u"
+    },
+    {
+        "name": "Acoustic Throwbacks",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b993db2853bd63806df2464f",
+        "id": "37i9dQZF1DX8TvdyVZSYFY"
+    },
+    {
+        "name": "Quiet Moment",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036e192f0af72c8a40c3b3e1f5",
+        "id": "37i9dQZF1DX7KrTMVQnM02"
+    },
+    {
+        "name": "Work From Home",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000039ed927af72b644ee065cc980",
+        "id": "37i9dQZF1DWTLSN7iG21yC"
+    },
+    {
+        "name": "lofi beats",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003abaf6c3c6a4b29f8a4565a86",
+        "id": "37i9dQZF1DWWQRwui0ExPn"
+    },
+    {
+        "name": "Workday Lounge",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e435ce0a86a8b9dc24527618",
+        "id": "37i9dQZF1DWT5lkChsPmpy"
+    },
+    {
+        "name": "Workday Jazz",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000309dad9c52be3f4d65eb94718",
+        "id": "37i9dQZF1DX41cLva7hoYQ"
+    },
+    {
+        "name": "Brain Food",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000031df043181e0a5b20707ce3a9",
+        "id": "37i9dQZF1DWXLeA8Omikj7"
+    },
+    {
+        "name": "The Ultimate Hit Mix",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000351bb93b9d0a4d0a242724a4e",
+        "id": "37i9dQZF1DWUZMtnnlvJ9p"
+    },
+    {
+        "name": "Deep Focus",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000035551996f500ba876bda73fa5",
+        "id": "37i9dQZF1DWZeKCadgRdKQ"
+    },
+    {
+        "name": "Reading Soundtrack",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000343ff9e8e76a553c0dc258e59",
+        "id": "37i9dQZF1DWZwtERXCS82H"
+    },
+    {
+        "name": "Comfort Zone",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a86f06fb337166fc5047efee",
+        "id": "37i9dQZF1DWYWddJiPzbvb"
+    },
+    {
+        "name": "Electronic Focus",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003505d1fb099f23271355aa5a1",
+        "id": "37i9dQZF1DX0wMD4IoQ5aJ"
+    },
+    {
+        "name": "Kickass Metal",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003127eec26bbca4c0b6588a673",
+        "id": "37i9dQZF1DWTcqUzwhNmKv"
+    },
+    {
+        "name": "Best of Kickass Metal 2022",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003ff94e20a3903d2c2f3f649e0",
+        "id": "37i9dQZF1DX5FZ0gGkvIRf"
+    },
+    {
+        "name": "All New Metal",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a5aad9493acea310a3446f04",
+        "id": "37i9dQZF1DX5J7FIl4q56G"
+    },
+    {
+        "name": "New Blood",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000302aedcf0a6fb11c800145657",
+        "id": "37i9dQZF1DXdiUbJTV2anj"
+    },
+    {
+        "name": "Hard Rock",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b8559431d293fd0cef861831",
+        "id": "37i9dQZF1DX1X7WV84927n"
+    },
+    {
+        "name": "Alternative Metal",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000037860df2fc6d89d6876434629",
+        "id": "37i9dQZF1DWY5ai7gxfuaS"
+    },
+    {
+        "name": "The Core",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036846b0dc853e2a20e15f7b8e",
+        "id": "37i9dQZF1DWXIcbzpLauPS"
+    },
+    {
+        "name": "Heavy Queens",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e322e491e4978ac571b7b7a9",
+        "id": "37i9dQZF1DWXDJDWnzE39E"
+    },
+    {
+        "name": "Progressive Metal",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000037705ad8dae17581a45cd94b5",
+        "id": "37i9dQZF1DX5wgKYQVRARv"
+    },
+    {
+        "name": "Deathcore",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000035206e938c5214fb7a801cdaa",
+        "id": "37i9dQZF1DX1cJWWyylDuw"
+    },
+    {
+        "name": "Old School Metal",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000038b611bbfa034d0b4e346487c",
+        "id": "37i9dQZF1DX2LTcinqsO68"
+    },
+    {
+        "name": "Heavy Metal",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003acd7faef92d29ec63640e550",
+        "id": "37i9dQZF1DX9qNs32fujYe"
+    },
+    {
+        "name": "00s Metal Classics",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000039f50fed38a51e36e20284aa2",
+        "id": "37i9dQZF1DWXNFSTtym834"
+    },
+    {
+        "name": "Metal Essentials",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003298528c6a28b0a0c271510a0",
+        "id": "37i9dQZF1DWWOaP4H0w5b0"
+    },
+    {
+        "name": "Kickass Metal",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003127eec26bbca4c0b6588a673",
+        "id": "37i9dQZF1DWTcqUzwhNmKv"
+    },
+    {
+        "name": "Metal Ballads",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036f39cc1479a845dcc9e7c54b",
+        "id": "37i9dQZF1DX1kydukZhLms"
+    },
+    {
+        "name": "Nu Metal Era",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000353874101a3c28ce434e9438c",
+        "id": "37i9dQZF1DXcfZ6moR6J0G"
+    },
+    {
+        "name": "90s Metal Classics",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036a606ca5f646de19cc1ac221",
+        "id": "37i9dQZF1DX08jcQJXDnEQ"
+    },
+    {
+        "name": "All New Metal",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a5aad9493acea310a3446f04",
+        "id": "37i9dQZF1DX5J7FIl4q56G"
+    },
+    {
+        "name": "Metal Covers",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003c284d99cedabd349bfc666ed",
+        "id": "37i9dQZF1DWUJiNTfqDwyS"
+    },
+    {
+        "name": "Baby Sleep",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000035683edf3bef4a94327e7b050",
+        "id": "37i9dQZF1DX0DxcHtn4Hwo"
+    },
+    {
+        "name": "Disney Hits",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000387a6612bf09c31f6845ba1e0",
+        "id": "37i9dQZF1DX8C9xQcOrE6T"
+    },
+    {
+        "name": "Lullaby Baby",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000393af6b553b9dc0af6488ada7",
+        "id": "37i9dQZF1DXbADqT0j1Cxt"
+    },
+    {
+        "name": "Sweet Lullabies",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003018b98a0f432ebd350779e27",
+        "id": "37i9dQZF1DX8skPjZYk8mL"
+    },
+    {
+        "name": "Family Christmas Party",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000337b8834254e73a185fa7cbc7",
+        "id": "37i9dQZF1DWYTNedJ22GVG"
+    },
+    {
+        "name": "Mozart for Babies",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003fd138d77ef3473d6a04cee36",
+        "id": "37i9dQZF1DWX7suNVq3K4h"
+    },
+    {
+        "name": "Baby Sleep Aid: White Noise",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003f436f984f284edd3de7edbfb",
+        "id": "37i9dQZF1DXby8tlLbzqaH"
+    },
+    {
+        "name": "Music Box Lullabies",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003c41a1e6971429050ebe19b39",
+        "id": "37i9dQZF1DX1Ew8a92fTdm"
+    },
+    {
+        "name": "Disney Favorites",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000038238148e7ab0613eb2d073c6",
+        "id": "37i9dQZF1DWVs8I62NcHks"
+    },
+    {
+        "name": "Holiday Magic",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000394c16eb1f97c6e1390bc6acf",
+        "id": "37i9dQZF1DWYOLKtM77Hd7"
+    },
+    {
+        "name": "Sleep, Baby Sleep",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003c7d9c3a870ea21a58ffb26d4",
+        "id": "37i9dQZF1DXdJ5OFSzWeCS"
+    },
+    {
+        "name": "Harp Lullabies",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000030a66e3c6acd17caf7fc2df88",
+        "id": "37i9dQZF1DX2y5WZJJL4SF"
+    },
+    {
+        "name": "Minions Official Playlist",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000037835ca422bbd15a899fcf633",
+        "id": "37i9dQZF1DXdTBzNcDowKf"
+    },
+    {
+        "name": "Disney Lullaby",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003889c7a6c4c41ccd469c3c96a",
+        "id": "37i9dQZF1DX0zmsulfyDdq"
+    },
+    {
+        "name": "Baby Bells for Sleep",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003120dec1dd2acaaaaea8ecf47",
+        "id": "37i9dQZF1DX9QSrZ8cQbyd"
+    },
+    {
+        "name": "Pop 4 Kids",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000033b4d1bd8fc061c7b1cb33cb1",
+        "id": "37i9dQZF1DWZhxU4AiByxO"
+    },
+    {
+        "name": "Disney Junior Hits",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003aa13ed2c2b29648e5bfa434f",
+        "id": "37i9dQZF1DX4TzCf8od5BM"
+    },
+    {
+        "name": "Calm Kids",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003227cadd80e5b2f72016ae44a",
+        "id": "37i9dQZF1DXcr2UzLGERUU"
+    },
+    {
+        "name": "Family Dance Party",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000037b53b2baf6b98f65e108d7fb",
+        "id": "37i9dQZF1DX4cCqTKPWY5o"
+    },
+    {
+        "name": "Your Daily Routine",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003eb0f92294632c5b0943ebf06",
+        "id": "37i9dQZF1DWWVwtV5Pv39d"
+    },
+    {
+        "name": "Viva Latino",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003200e685d0e391d1f27e1c2a7",
+        "id": "37i9dQZF1DX10zKzsJ2jva"
+    },
+    {
+        "name": "50 Latin Classics",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000031efcb609b4b15959f0364d2a",
+        "id": "37i9dQZF1DWZJIhAWlsiOv"
+    },
+    {
+        "name": "Baila Reggaeton",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d42bbcff2d07404bbe3b6050",
+        "id": "37i9dQZF1DWY7IeIP1cdjF"
+    },
+    {
+        "name": "Latin Cardio",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000300eeb193986d6ae683a72a4a",
+        "id": "37i9dQZF1DWXmQEAjlxGhi"
+    },
+    {
+        "name": "Latin Hit Mix",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b7fe19419fad777dbc738ffd",
+        "id": "37i9dQZF1DXbLMw3ry7d7k"
+    },
+    {
+        "name": "Bachata Lovers",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000031d1eb5c8ac00be83e9ebb1a1",
+        "id": "37i9dQZF1DX7MTlMMRl0MD"
+    },
+    {
+        "name": "Workout Latino",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000031cf94d672b1d05b385f2fffe",
+        "id": "37i9dQZF1DWYK2yx0OW9Kj"
+    },
+    {
+        "name": "Café Cubano",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d142d7feb73b11db237b11e8",
+        "id": "37i9dQZF1DWZLN2cXno63R"
+    },
+    {
+        "name": "Esenciales",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003983ed3df508b457e1c5d33ca",
+        "id": "37i9dQZF1DX3omIq8ziEt6"
+    },
+    {
+        "name": "Old School Reggaeton",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000368c0e93995997c14fb4735e3",
+        "id": "37i9dQZF1DX8SfyqmSFDwe"
+    },
+    {
+        "name": "Latin Pop Classics",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003027f3b2ce3bac5c1c9a2d64a",
+        "id": "37i9dQZF1DX6ThddIjWuGT"
+    },
+    {
+        "name": "Salsa Cubana",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b95d21eb8af8443a75a32365",
+        "id": "37i9dQZF1DWVSSKiqqNKSC"
+    },
+    {
+        "name": "New Music Friday Latin",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000335bcfea3af77b51d7504d007",
+        "id": "37i9dQZF1DX1hVRardJ30X"
+    },
+    {
+        "name": "Viva Latino Presents: Best Latin Songs of 2022",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000034b29a5496eede0b0f2afb1ee",
+        "id": "37i9dQZF1DX8L1VmOcEBjS"
+    },
+    {
+        "name": "Zumba® Beats",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e2a2682fc2cc7325f173a482",
+        "id": "37i9dQZF1DX7cmFV9rWM0u"
+    },
+    {
+        "name": "Puro Perreo",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003749bcf509ba623a86238c9ec",
+        "id": "37i9dQZF1DWX5ZOsG2Ogi1"
+    },
+    {
+        "name": "Latin Jazz",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000361db6cce1ab4d0cc7b4cd32c",
+        "id": "37i9dQZF1DX661EjJOj3Tu"
+    },
+    {
+        "name": "Latino Gang",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003aa3316e0fee0b132b8269a7e",
+        "id": "37i9dQZF1DXaR954ExpGKR"
+    },
+    {
+        "name": "Latin Gaming",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000030deafac0ef36d2da47cc9c14",
+        "id": "37i9dQZF1DX43v1NFXUzji"
+    },
+    {
+        "name": "Fuego",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000375f1ae0282b8fbb7b81127b7",
+        "id": "37i9dQZF1DX8sljIJzI0oo"
+    },
+    {
+        "name": "Reggae Classics",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000037dd1fab3cfd4e3bdb832ff72",
+        "id": "37i9dQZF1DXbSbnqxMTGx9"
+    },
+    {
+        "name": "One Love",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003069915da6415eef48041e795",
+        "id": "37i9dQZF1DWSiyIBdVQrkk"
+    },
+    {
+        "name": "Chilled Reggae",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000371276a2c7520838752ec92ed",
+        "id": "37i9dQZF1DWYtKpmml7moA"
+    },
+    {
+        "name": "Island Reggae",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003cc860855a01c86a92b2e1ac4",
+        "id": "37i9dQZF1DX3mvx0imueXo"
+    },
+    {
+        "name": "Reggae Infusions",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003eb422a8c8a741d6fd1a9a590",
+        "id": "37i9dQZF1DWSkkUxEhrBdF"
+    },
+    {
+        "name": "Dancehall Throwback",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000331ab6a6d95b443feadd248c8",
+        "id": "37i9dQZF1DWWDLvD3P5wOG"
+    },
+    {
+        "name": "Just Smile",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003fe236d32d2e2fb9d3cb6de40",
+        "id": "37i9dQZF1DWVu0D7Y8cYcs"
+    },
+    {
+        "name": "Xport",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000395cacf7ee993bc49afc14d0e",
+        "id": "37i9dQZF1DX9MrAJRR2Zxk"
+    },
+    {
+        "name": "Dancehall Official",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000038e78672165bcf66f96ae4f28",
+        "id": "37i9dQZF1DXan38dNVDdl4"
+    },
+    {
+        "name": "Island Pop",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a435f6e61ad03dcf6be7ea50",
+        "id": "37i9dQZF1DWX1DwkjCqoyw"
+    },
+    {
+        "name": "Back a Yard",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000375a1949179dd5fbbea7c41a5",
+        "id": "37i9dQZF1DWTxofAzA6rAK"
+    },
+    {
+        "name": "Irie",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000038473e5d4865a173ff5dc5b28",
+        "id": "37i9dQZF1DX7GUbRHVEX42"
+    },
+    {
+        "name": "Carnival",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003f9d923f7398405e7dd4421ab",
+        "id": "37i9dQZF1DX0rM1NjYKMJa"
+    },
+    {
+        "name": "Haitian Heat",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000307c12b693550a2ce0e6cbbbd",
+        "id": "37i9dQZF1DX3XjJqhm9fqD"
+    },
+    {
+        "name": "Soca Classics",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003ff7b3afc42065dd14fc104d9",
+        "id": "37i9dQZF1DX3s9lsTCJMPo"
+    },
+    {
+        "name": "Dancehall Queen",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000305c33a347dc0ee2ecb0aef5c",
+        "id": "37i9dQZF1DX0cNYCfLOrsu"
+    },
+    {
+        "name": "Nu-Blue",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000312a2694a51d39c68e0518f16",
+        "id": "37i9dQZF1DXb3MZdETGqKB"
+    },
+    {
+        "name": "In the Name of the Blues: Joanne Shaw Taylor Takeover",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000361fd08abbfe878d51059ce5c",
+        "id": "37i9dQZF1DXcnkReojaCnV"
+    },
+    {
+        "name": "Got Blues",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000383b612d8c479c21002d32cb6",
+        "id": "37i9dQZF1DX0QNpebF7rcL"
+    },
+    {
+        "name": "Blues & Roots Rock",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000387fc2aeba953c737328e4b89",
+        "id": "37i9dQZF1DWSKpvyAAcaNZ"
+    },
+    {
+        "name": "Acoustic Grit",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003260ae44a42913d2771d06c58",
+        "id": "37i9dQZF1DXaiAJKcabR16"
+    },
+    {
+        "name": "Blues Roots",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000354cfcca9c014818c45838e92",
+        "id": "37i9dQZF1DXcFk5r8uS3l2"
+    },
+    {
+        "name": "Funky Heavy Bluesy",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b86063665957f33d49bf7bdc",
+        "id": "37i9dQZF1DX9stbPFTxeaB"
+    },
+    {
+        "name": "Acoustic Blues",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000031a129f6925498fe336082a28",
+        "id": "37i9dQZF1DX2iUghHXGIjj"
+    },
+    {
+        "name": "Blues Live & Loud",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e5ad81ddf383b73b7b462317",
+        "id": "37i9dQZF1DWT1RLff7HxDm"
+    },
+    {
+        "name": "Modern Blues Rock",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003f674055915d85c3e8b61c273",
+        "id": "37i9dQZF1DX7Y7BqFok9IQ"
+    },
+    {
+        "name": "Bluestronica",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000034fb5d145af7a03c82df2bff1",
+        "id": "37i9dQZF1DWZprlljz35Gr"
+    },
+    {
+        "name": "Modern Blues Guitar",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003da889bf1c1558ed1c86f2284",
+        "id": "37i9dQZF1DWZBWeillXfzX"
+    },
+    {
+        "name": "Blue Ballads",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000381dcf95947148f5e1cc44edc",
+        "id": "37i9dQZF1DXdeoRwG5yUKg"
+    },
+    {
+        "name": "Alt-Blue",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003746957a73c4c9f8d05944810",
+        "id": "37i9dQZF1DXd9H435blNqg"
+    },
+    {
+        "name": "Punk Blues",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003f58da9d387f9deb2a05720e2",
+        "id": "37i9dQZF1DWYV2xtYQARbp"
+    },
+    {
+        "name": "Blues Classics",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003053676e87d17a88e7da65b56",
+        "id": "37i9dQZF1DXd9rSDyQguIk"
+    },
+    {
+        "name": "Blues Origins",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e8d2d867e32fdaa12aa79d57",
+        "id": "37i9dQZF1DXbkKnGZHv1kf"
+    },
+    {
+        "name": "Electric Blues Classics",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036e19f514dc806ab36aba80b1",
+        "id": "37i9dQZF1DX9GnjlK17CLK"
+    },
+    {
+        "name": "Blues Standards",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003c2aca0349f0eb275fca00a00",
+        "id": "37i9dQZF1DXcu3QLJudo4X"
+    },
+    {
+        "name": "Queens of the Blues",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003f3b71ee7922222c9606c38dc",
+        "id": "37i9dQZF1DXbxvVclJxhEJ"
+    },
+    {
+        "name": "Classic Punk",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000038bcef6da0801d584c64c488c",
+        "id": "37i9dQZF1DX3LDIBRoaCDQ"
+    },
+    {
+        "name": "Pure Pop Punk",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000030677f4858f42353e6926aca8",
+        "id": "37i9dQZF1DXasneILDRM7B"
+    },
+    {
+        "name": "Celtic Punk",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000034d023977376ec4f30795ecf4",
+        "id": "37i9dQZF1DXb1IUaS6F7Z8"
+    },
+    {
+        "name": "Skatepark Punks",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000031941356cb072eaf2727fa308",
+        "id": "37i9dQZF1DX3MU5XUozve7"
+    },
+    {
+        "name": "Pop Punk Powerhouses",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e3192f3b1b9226f390de5acb",
+        "id": "37i9dQZF1DXa9wYJr1oMFq"
+    },
+    {
+        "name": "The Road to Punk Rock",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003f845977a3d2e97f945fda5b3",
+        "id": "37i9dQZF1DWU0FBqUeZYeN"
+    },
+    {
+        "name": "Punk Essentials",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000031ea8b75475969ed373a40414",
+        "id": "37i9dQZF1DXd6tJtr4qeot"
+    },
+    {
+        "name": "Emo Forever",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003fc0dc9b786b7e9ec570b9323",
+        "id": "37i9dQZF1DX9wa6XirBPv8"
+    },
+    {
+        "name": "Noisy",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000039cd6472c9261e44a78cb84a9",
+        "id": "37i9dQZF1DX98f0uoU1Pcs"
+    },
+    {
+        "name": "All New Punk",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036330df8a6cb0c92a0dfc1402",
+        "id": "37i9dQZF1DX0KpeLFwA3tO"
+    },
+    {
+        "name": "Political Punks",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e3b6db08411227779d92db80",
+        "id": "37i9dQZF1DX1zG0qRnyaQ3"
+    },
+    {
+        "name": "Can I scream?",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000350f1172e3914eee4fc781cfe",
+        "id": "37i9dQZF1DX8sGALGjOrTu"
+    },
+    {
+        "name": "unleashed",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e272192efd4cb7f37dbb6234",
+        "id": "37i9dQZF1DXdJa941ExayM"
+    },
+    {
+        "name": "Classic Hardcore",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003693af7b6870f72b2ffcfcda6",
+        "id": "37i9dQZF1DXaGNG7NmtmZv"
+    },
+    {
+        "name": "mEMOries",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000309405dd617213d90bba6129e",
+        "id": "37i9dQZF1DWYAyGN1XM1YS"
+    },
+    {
+        "name": "The Essential Ska",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000035c17a50356a31c6e583a5176",
+        "id": "37i9dQZF1DX7WJ4yDmRK8R"
+    },
+    {
+        "name": "Punk Unplugged",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a6d4ac7f1d75e657042d542f",
+        "id": "37i9dQZF1DXcBkxDaAQX0a"
+    },
+    {
+        "name": "Crash Course",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000031ab51a6a373ad8d99320bf4a",
+        "id": "37i9dQZF1DX3YlUroplxjF"
+    },
+    {
+        "name": "Pop Punk's Not Dead",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e30658131adeb0e9dd14f845",
+        "id": "37i9dQZF1DX1ewVhAJ17m4"
+    },
+    {
+        "name": "The Scene",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000315878bb9036e89f5fbce0d19",
+        "id": "37i9dQZF1DWZkHEX2YHpDV"
+    },
+    {
+        "name": "Chillin' on a Dirt Road",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003f5b078962d37890234b76125",
+        "id": "37i9dQZF1DWTkxQvqMy4WW"
+    },
+    {
+        "name": "Country's Greatest Hits",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003241077e39c2ebfb33fccfb91",
+        "id": "37i9dQZF1DWZBCPUIUs2iR"
+    },
+    {
+        "name": "Hot Country",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003347d9079f5d1e4a6ebdc6618",
+        "id": "37i9dQZF1DX1lVhptIYRda"
+    },
+    {
+        "name": "Country Christmas Classics",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000322f195c8194d32befbd52750",
+        "id": "37i9dQZF1DX2C6Zlz76Dq4"
+    },
+    {
+        "name": "Country Rocks",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003440f85022176f015a8c348c8",
+        "id": "37i9dQZF1DWWH0izG4erma"
+    },
+    {
+        "name": "New Boots",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000039cfc45849bf4a59e24c59c9c",
+        "id": "37i9dQZF1DX8S0uQvJ4gaa"
+    },
+    {
+        "name": "Country Christmas",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000032bf66be10ef2eb20c5ec0dbf",
+        "id": "37i9dQZF1DX0MuOvUqmxDz"
+    },
+    {
+        "name": "2010s Country",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000312454cd3340f998bb2ae8d90",
+        "id": "37i9dQZF1DWXdiK4WAVRUW"
+    },
+    {
+        "name": "Country Worldwide Hot 50",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003310e0f8f90158107fe134da9",
+        "id": "37i9dQZF1DX7aUUBCKwo4Y"
+    },
+    {
+        "name": "Country Gold",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003c5beb9fa43b94b120aa7372a",
+        "id": "37i9dQZF1DWYnwbYQ5HnZU"
+    },
+    {
+        "name": "Country Coffeehouse",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000031c853be1a053c7a3a24d69db",
+        "id": "37i9dQZF1DWYiR2Uqcon0X"
+    },
+    {
+        "name": "50s Country",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000366686968b244a61bb3ff7f15",
+        "id": "37i9dQZF1DWWnpcjfCqaW0"
+    },
+    {
+        "name": "Country Workout",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003c50bf74f8153ee7cef3b0f67",
+        "id": "37i9dQZF1DX5OrO2Jxuvdn"
+    },
+    {
+        "name": "90s Country",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000388d4db3d3bfd0a81957ea201",
+        "id": "37i9dQZF1DWVpjAJGB70vU"
+    },
+    {
+        "name": "2000s Country",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036ac17610378d421cefab7abb",
+        "id": "37i9dQZF1DXdxUH6sNtcDe"
+    },
+    {
+        "name": "Country Kind of Love",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000031416f67f937b9ee33b3753e2",
+        "id": "37i9dQZF1DX8WMG8VPSOJC"
+    },
+    {
+        "name": "60s Country",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003f9c951ecf06a57c480169428",
+        "id": "37i9dQZF1DX7CGYgLhqwu5"
+    },
+    {
+        "name": "Southern Rock 101",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000305b5a859cc923f25788cc627",
+        "id": "37i9dQZF1DXbDjX0hus3Iu"
+    },
+    {
+        "name": "Traditional Country",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003dba80b1fba8f99128859e13f",
+        "id": "37i9dQZF1DXaiEFNvQPZrM"
+    },
+    {
+        "name": "Country 101: Rockabilly",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000032a0d2f5d4aebd6a837101fbc",
+        "id": "37i9dQZF1DX47i8ytbYGJE"
+    },
+    {
+        "name": "Roots Rising",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d3bfccc3148587e515f9cfef",
+        "id": "37i9dQZF1DWYV7OOaGhoH0"
+    },
+    {
+        "name": "Today's Singer-Songwriters",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e8130076d78fa57d624a728c",
+        "id": "37i9dQZF1DWTyjRnMgESue"
+    },
+    {
+        "name": "Infinite Indie Folk",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a2097a35ba2b751555db521d",
+        "id": "37i9dQZF1DX2taNm7KfjOX"
+    },
+    {
+        "name": "Classic Acoustic",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d427cfa0891c0baf1a496995",
+        "id": "37i9dQZF1DX504r1DvyvxG"
+    },
+    {
+        "name": "The Pulse of Americana",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000323fd680c4e5f07de0295338e",
+        "id": "37i9dQZF1DX3Fzl4v4w9Zp"
+    },
+    {
+        "name": "Indigo",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003925fd5e3e3efdd1cf34e69ca",
+        "id": "37i9dQZF1DWUgBy0IJPlHq"
+    },
+    {
+        "name": "Fresh Folk",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b6262c62a961cede31e1c301",
+        "id": "37i9dQZF1DXaUDcU6KDCj4"
+    },
+    {
+        "name": "Acoustic Hits",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003474b8e2cbf213a9e85975217",
+        "id": "37i9dQZF1DX4VvfRBFClxm"
+    },
+    {
+        "name": "Essential Folk",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000337eca2b997aa5f766a038d56",
+        "id": "37i9dQZF1DWVmps5U8gHNv"
+    },
+    {
+        "name": "Folk Rock Favorites",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000037360781f2a0ddb3d5f8c437d",
+        "id": "37i9dQZF1DXat5j4Lk8UEj"
+    },
+    {
+        "name": "wanderlust",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000033b380cb75de2c04ec743768f",
+        "id": "37i9dQZF1DWWpO97CaFM3p"
+    },
+    {
+        "name": "Your Favorite Coffeehouse",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000031c09d0e729f9c9ad8bff6739",
+        "id": "37i9dQZF1DX6ziVCJnEm59"
+    },
+    {
+        "name": "Soft + Slow",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b2aa1ac630e4cd788a975bb0",
+        "id": "37i9dQZF1DX0611i4oGheJ"
+    },
+    {
+        "name": "Wild + Free",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003f7392b5c216cac6bd400b228",
+        "id": "37i9dQZF1DX5Q5wA1hY6bS"
+    },
+    {
+        "name": "Vintage Vibes",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003193aa333aed5b450b3690bd7",
+        "id": "37i9dQZF1DX6dvuioZhoLo"
+    },
+    {
+        "name": "fall feels",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000039065f5dcb31a8bb2aaaf67af",
+        "id": "37i9dQZF1DXahsxs9xh0fn"
+    },
+    {
+        "name": "longing",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000353344fcbbf67368720d1ca98",
+        "id": "37i9dQZF1DX0WptpmbS17O"
+    },
+    {
+        "name": "Acoustic Christmas",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003cd11a327ca5b27f13065913b",
+        "id": "37i9dQZF1DX2uk5oHRWimT"
+    },
+    {
+        "name": "Folksy Christmas",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003fab3652e997a12bd59b56584",
+        "id": "37i9dQZF1DX8c93KtGDPub"
+    },
+    {
+        "name": "the new retro",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000030f07372ef7948591c8abdc79",
+        "id": "37i9dQZF1DWV5vqkTng2MA"
+    },
+    {
+        "name": "Afro Hits",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000038df6a0356fecfdb7ed5177bd",
+        "id": "37i9dQZF1DWX0o6sD1a6P5"
+    },
+    {
+        "name": "African Heat",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000350f14fbc2f9e933a05914280",
+        "id": "37i9dQZF1DWYkaDif7Ztbp"
+    },
+    {
+        "name": "Afropop",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000034716c02047c6b04622efd4ff",
+        "id": "37i9dQZF1DWYs2pvwxWA7l"
+    },
+    {
+        "name": "Sahara",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003ba5c8cc1a7839d4772f35664",
+        "id": "37i9dQZF1DWWuJFsTMqHYX"
+    },
+    {
+        "name": "Afro Psychedelica",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000034be79d1a6dbc66b3bf304434",
+        "id": "37i9dQZF1DWVyizF9BJ61m"
+    },
+    {
+        "name": "Afro Hits : Best of 2022",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000037a22f43dc81d01f960cfdd07",
+        "id": "37i9dQZF1DX117wqItTnqW"
+    },
+    {
+        "name": "We Everywhere",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a6684c2f9b3ac1d75160772c",
+        "id": "37i9dQZF1DWT6SJaitNDax"
+    },
+    {
+        "name": "Afrobeat Essentials",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003fe40ea80ecbeb194dc86d43c",
+        "id": "37i9dQZF1DX0ItcQfwbKZJ"
+    },
+    {
+        "name": "Afrotronica",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000030b06e095fd9fce000f6c8423",
+        "id": "37i9dQZF1DX6eyIKoZCdug"
+    },
+    {
+        "name": "Peppeh",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000032a5934a31e1f659c5995e80c",
+        "id": "37i9dQZF1DX6036iaZ2MYP"
+    },
+    {
+        "name": "Afro Party Anthems",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003aea0eab3050e6c79c697a71a",
+        "id": "37i9dQZF1DWSjibQnF0bUk"
+    },
+    {
+        "name": "Ginger Me",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a5f48ae84c25549d9f2a2639",
+        "id": "37i9dQZF1DX0SlHbqMm3vJ"
+    },
+    {
+        "name": "AfroBoogie",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b6c538d57f95c62f269e1e03",
+        "id": "37i9dQZF1DWT6pI50XnTRh"
+    },
+    {
+        "name": "Tantalizers",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e0097f167db64db1738fc507",
+        "id": "37i9dQZF1DWU4DdJqbjPl5"
+    },
+    {
+        "name": "Tezeta",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003beb2722ffd417c5616dcd108",
+        "id": "37i9dQZF1DXcadB69DKC8c"
+    },
+    {
+        "name": "Dancing Kizomba",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003efca42840dd77cdaf0addf81",
+        "id": "37i9dQZF1DX1l6qs3gcM4U"
+    },
+    {
+        "name": "Afro Indie",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a838f3be4d5b457701c207d8",
+        "id": "37i9dQZF1DXaYLfJcKWFfF"
+    },
+    {
+        "name": "Classic Afropop",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d2041e1b800a0689b345e491",
+        "id": "37i9dQZF1DXcIme26eJxid"
+    },
+    {
+        "name": "Afro Throwback",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000032612242cb6f026ca7a274dde",
+        "id": "37i9dQZF1DWT4nLa3WetIs"
+    },
+    {
+        "name": "Detty December",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000033279a4c898ceb99b3892ca4d",
+        "id": "37i9dQZF1DWTKXbV17YqGw"
+    },
+    {
+        "name": "Night Rider",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000309eec532a1a213bc950dff71",
+        "id": "37i9dQZF1DX6GJXiuZRisr"
+    },
+    {
+        "name": "Classic Road Trip Songs",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036906e3e07bd1de92c8a6fb08",
+        "id": "37i9dQZF1DX9wC1KY45plY"
+    },
+    {
+        "name": "Songs to Sing in the Car",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003ffa215be1a4c64e3cbf59d1e",
+        "id": "37i9dQZF1DWWMOmoXKqHTD"
+    },
+    {
+        "name": "90s Road Trip",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000032cd0416f229974b9d21519a5",
+        "id": "37i9dQZF1DX76cnmxfAAhD"
+    },
+    {
+        "name": "70s FM Radio Rider",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036a364105103fc92bc15f5785",
+        "id": "37i9dQZF1DXdj82GcM2wq2"
+    },
+    {
+        "name": "70s Road Trip",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000031b84822d2ae33438903454df",
+        "id": "37i9dQZF1DWWiDhnQ2IIru"
+    },
+    {
+        "name": "Hip-Hop Drive",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003c30623cd54c7a127429e4678",
+        "id": "37i9dQZF1DWUFmyho2wkQU"
+    },
+    {
+        "name": "Classic Rock Drive",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000030c0ac878866d5d08bddb2b0a",
+        "id": "37i9dQZF1DXdOEFt9ZX0dh"
+    },
+    {
+        "name": "Highway to Yell",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000384c55ec58137b730f67b9475",
+        "id": "37i9dQZF1DXdF699XuZIvg"
+    },
+    {
+        "name": "Indie Rock Road Trip",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003762bf3c5b6096d02f022a4b3",
+        "id": "37i9dQZF1DWUoqEG4WY6ce"
+    },
+    {
+        "name": "80s Rock Drive",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003836a48de8695404314a393c1",
+        "id": "37i9dQZF1DX206LSYrawGc"
+    },
+    {
+        "name": "60s Rock Drive",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003caf271ed2d2e34f446e6e230",
+        "id": "37i9dQZF1DWSSWiBVaJn3j"
+    },
+    {
+        "name": "Tulum Vibes",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003251fb9766694c3cae3006a85",
+        "id": "37i9dQZF1DX9pP7cC2liKw"
+    },
+    {
+        "name": "Folk Fabrique",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000034ac6a2f3e9a49c74b831f321",
+        "id": "37i9dQZF1DX62XscWX9t6h"
+    },
+    {
+        "name": "70s Rock Drive",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000370d43d6106b851e6968569ac",
+        "id": "37i9dQZF1DX52C9BnsaFI0"
+    },
+    {
+        "name": "90s Rock Drive",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003ecd31b651aa3035a4800cf34",
+        "id": "37i9dQZF1DX9E1mLvTvD1f"
+    },
+    {
+        "name": "Beach Vibes",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000319835d3cd3ba41a341e8ee4f",
+        "id": "37i9dQZF1DX83I5je4W4rP"
+    },
+    {
+        "name": "Indie Roadtrip",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a5338398ab12ea2b0b16ed1a",
+        "id": "37i9dQZF1DWSQScAbo5nGF"
+    },
+    {
+        "name": "Road Trip To Tokyo",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000038c745ec116a64065c44d7906",
+        "id": "37i9dQZF1DWV8IND7NkP2W"
+    },
+    {
+        "name": "Souvenirs",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000303ae97d4bd3167573dadeb59",
+        "id": "37i9dQZF1DX8XxBtyUnC7B"
+    },
+    {
+        "name": "Sleep",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003bc9438e3a6ff78076f8b1405",
+        "id": "37i9dQZF1DWZd79rJ6a7lp"
+    },
+    {
+        "name": "Peaceful Piano",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003ca5a7517156021292e5663a6",
+        "id": "37i9dQZF1DX4sWSpwq3LiO"
+    },
+    {
+        "name": "Calming Classical",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d4d256fb7cfeb0f512e6c1d1",
+        "id": "37i9dQZF1DWVFeEut75IAL"
+    },
+    {
+        "name": "Coffee Table Jazz",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000033e7580e54c5e6672d564f170",
+        "id": "37i9dQZF1DWVqfgj8NZEp1"
+    },
+    {
+        "name": "Stress Relief",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003468762ec9fd93a2dc3b167ee",
+        "id": "37i9dQZF1DWXe9gFZP0gtP"
+    },
+    {
+        "name": "Peaceful Guitar",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003c1811d50fbd4df02ea3b06a3",
+        "id": "37i9dQZF1DX0jgyAiPl8Af"
+    },
+    {
+        "name": "Calm Vibes",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000037c101bfeef81330ba29dc144",
+        "id": "37i9dQZF1DX1s9knjP51Oa"
+    },
+    {
+        "name": "Mellow Cello",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003dfcd7cc7e0c151425e963a19",
+        "id": "37i9dQZF1DX9dX3aBjsxqd"
+    },
+    {
+        "name": "Relaxing Jazz Piano",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003492ee5efc74d0fc2dd7ec318",
+        "id": "37i9dQZF1DWWfxnl2EyBbd"
+    },
+    {
+        "name": "Calm",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003979f039db28e039dd980b154",
+        "id": "37i9dQZF1DWTC99MCpbjP8"
+    },
+    {
+        "name": "Calming Instrumental Covers",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d4fc1471f9f45a07b5c5334e",
+        "id": "37i9dQZF1DX9j444F9NCBa"
+    },
+    {
+        "name": "Ambient Relaxation",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000319ab577207bd9e19375deb6b",
+        "id": "37i9dQZF1DX3Ogo9pFvBkY"
+    },
+    {
+        "name": "Lazy Jazz Cat",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000303b2dabc9467e75c87805035",
+        "id": "37i9dQZF1DWTcEjayzrZ4x"
+    },
+    {
+        "name": "Relaxing Bach",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000033db06924698a70b0feff3cfe",
+        "id": "37i9dQZF1DWU1JctQodQRj"
+    },
+    {
+        "name": "Calming Acoustic",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000390b31bdc0f3a0ae203242fbc",
+        "id": "37i9dQZF1DXaImRpG7HXqp"
+    },
+    {
+        "name": "Light Academia",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000033c3d868dc16e85481d2cfb45",
+        "id": "37i9dQZF1DX1jDTenPbqLo"
+    },
+    {
+        "name": "Chilled Classical Covers",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003ce57b435edb7de95c0f16bb1",
+        "id": "37i9dQZF1DX21hEmly67Fg"
+    },
+    {
+        "name": "Relaxing Beethoven",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003742e574629a5c8e3f00a9e20",
+        "id": "37i9dQZF1DXdTVW77weWfh"
+    },
+    {
+        "name": "Creative Writing",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000310e257ffe6d4ab161fa740a3",
+        "id": "37i9dQZF1DX1ACGg8vzTNZ"
+    },
+    {
+        "name": "Atmospheric Calm",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a9c791a5e87578f27b20d12a",
+        "id": "37i9dQZF1DX4TnpT6vw5rE"
+    },
+    {
+        "name": "K-Pop ON! (온)",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003854edf5d16ac8a640dc60b3f",
+        "id": "37i9dQZF1DX9tPFwDMOaN1"
+    },
+    {
+        "name": "K-Pop Rising",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000399e5859a4b5963fd682d533c",
+        "id": "37i9dQZF1DX4FcAKI5Nhzq"
+    },
+    {
+        "name": "New Music K-Pop",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003ced02a0b2737bc0ce383b957",
+        "id": "37i9dQZF1DXe5W6diBL5N4"
+    },
+    {
+        "name": "K-Pop Generations",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000304387a010b3f72fb1dc0adab",
+        "id": "37i9dQZF1DX14fiWYoe7Oh"
+    },
+    {
+        "name": "K-Pop X-Overs",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000039da4c908a394f358381353c5",
+        "id": "37i9dQZF1DX4IDaXtVjL83"
+    },
+    {
+        "name": "KrOWN",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003eaa17fb8110c1c5ec3c5bf78",
+        "id": "37i9dQZF1DWW46Vfs1oltB"
+    },
+    {
+        "name": "TrenChill K-R&B",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003353badcfe3e742e9918d6c3a",
+        "id": "37i9dQZF1DXbirtHQBuwCo"
+    },
+    {
+        "name": "K-Club Party",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003ebdaaaba0795f1272faa876c",
+        "id": "37i9dQZF1DX4RDXswvP6Mj"
+    },
+    {
+        "name": "KimBops!",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e7b4d04dec39e79b055617c2",
+        "id": "37i9dQZF1DX0018ciYu6bM"
+    },
+    {
+        "name": "Nolja!",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000032a918cf878429e455aff09b8",
+        "id": "37i9dQZF1DXdR77H5Z8MIM"
+    },
+    {
+        "name": "발라드, 려요 (K-Pop Ballad Hits)",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000037e9d3bd52e164ef14a494841",
+        "id": "37i9dQZF1DX5LEXW9eXA0n"
+    },
+    {
+        "name": "In The K-Indie",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000037a4cc03a347d7897fbee4741",
+        "id": "37i9dQZF1DXdTb8AG95jne"
+    },
+    {
+        "name": "Cool K'IDs Rock",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000038a3275fbfa2d160c1e1a9e7a",
+        "id": "37i9dQZF1DX2SFBzpAPi7n"
+    },
+    {
+        "name": "v o K a l",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000330a56b9a6995806c52edcd07",
+        "id": "37i9dQZF1DX8eqay1FtdMm"
+    },
+    {
+        "name": "Hallyu Boy Bands",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000395d650e81cf9e13eac3b4ac1",
+        "id": "37i9dQZF1DX1gjl24GAQC0"
+    },
+    {
+        "name": "Girl Krush",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e94b2322449d3be80b9d3dcd",
+        "id": "37i9dQZF1DXbSWYCNwaARB"
+    },
+    {
+        "name": "Satang Mix (사탕 믹스)",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000396a2ddea0c4ca7ee541baa2f",
+        "id": "37i9dQZF1DWTTHy0vndijk"
+    },
+    {
+        "name": "RADAR Korea: Best of 2022",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000032d0ed7b44656a6435be8033c",
+        "id": "37i9dQZF1DX9IALXsyt8zk"
+    },
+    {
+        "name": "Fresh Finds Korea: Best of 2022",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003ae5a388cd3eca7d30bbe0340",
+        "id": "37i9dQZF1DX7vZYLzFGQXc"
+    },
+    {
+        "name": "K-Pop Acoustic",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d51a4cd43c6ad1843ffe363a",
+        "id": "37i9dQZF1DX1wdZM1FEz79"
+    },
+    {
+        "name": "Best of Ambiente 2022",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a15aa205ef18dd73dd557bdf",
+        "id": "37i9dQZF1DX9c7yCloFHHL"
+    },
+    {
+        "name": "Ambient Essentials",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003dfd21c7b90691b513fec2b7b",
+        "id": "37i9dQZF1DWUrPBdYfoJvz"
+    },
+    {
+        "name": "New Age Classics",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000035355b99d3aa409ab7bbd043c",
+        "id": "37i9dQZF1DWTWhA27mtRFK"
+    },
+    {
+        "name": "Ambient 1980s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003ed2633a1bc7157bb8ac5d97d",
+        "id": "37i9dQZF1DXc2NlKNewIrq"
+    },
+    {
+        "name": "Ambient Japan",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003fe4bba391421ca8f7901aa59",
+        "id": "37i9dQZF1DX5pzlFKAwpZ5"
+    },
+    {
+        "name": "The Listening Room",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000353ed18335527601c97b79db0",
+        "id": "37i9dQZF1DX4CZc00Cxa3X"
+    },
+    {
+        "name": "Ambient 2000s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003f1fa710e1223dfe074fdb795",
+        "id": "37i9dQZF1DWTr85QtpBm8W"
+    },
+    {
+        "name": "Deep Listening",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036e3ee5a6030364b47f03ee91",
+        "id": "37i9dQZF1DX5y2yPmGqrG8"
+    },
+    {
+        "name": "Exospheres",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000362ba6556d0486fda920a8a92",
+        "id": "37i9dQZF1DX8OUvJF6ATAB"
+    },
+    {
+        "name": "Planetary Soul",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003bafed7e5e5462ae4c829645c",
+        "id": "37i9dQZF1DWWvTQHhm7Jtf"
+    },
+    {
+        "name": "Ambient 2010s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003b84b4c0c57b9463d9f4819ed",
+        "id": "37i9dQZF1DXbXkZolmAsKx"
+    },
+    {
+        "name": "ethereal voices",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003911dbc521ff00fd5a5787627",
+        "id": "37i9dQZF1DWSnDyPAn5upE"
+    },
+    {
+        "name": "Not Quite Classical",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003cecb0dac1f9b563ca9ab3704",
+        "id": "37i9dQZF1DWSw8liJZcPOI"
+    },
+    {
+        "name": "Best of Ambiente 2022",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003a15aa205ef18dd73dd557bdf",
+        "id": "37i9dQZF1DX9c7yCloFHHL"
+    },
+    {
+        "name": "Dark Ambient",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000030f1e380a5d3e6e5e159a19f9",
+        "id": "37i9dQZF1DX7XfRr4cb6cr"
+    },
+    {
+        "name": "Deep Listening",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036e3ee5a6030364b47f03ee91",
+        "id": "37i9dQZF1DX5y2yPmGqrG8"
+    },
+    {
+        "name": "Classical X",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000349e990704d8294c56262cd46",
+        "id": "37i9dQZF1DX7dzHXrANAir"
+    },
+    {
+        "name": "ethereal voices",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003911dbc521ff00fd5a5787627",
+        "id": "37i9dQZF1DWSnDyPAn5upE"
+    },
+    {
+        "name": "Exospheres",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000362ba6556d0486fda920a8a92",
+        "id": "37i9dQZF1DX8OUvJF6ATAB"
+    },
+    {
+        "name": "Modular Synths",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003315401798f15b9aac25891d4",
+        "id": "37i9dQZF1DWYWA8YXAAo9Z"
+    },
+    {
+        "name": "Out Now",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003ffab169eda3d16c16e15c700",
+        "id": "37i9dQZF1DX3LyU0mhfqgP"
+    },
+    {
+        "name": "Black, Queer, & Proud",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003841d85e41cd160e681788a6f",
+        "id": "37i9dQZF1DWYdV3Fs5eWjC"
+    },
+    {
+        "name": "Transcend",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003aed83d421bcf0b88e42300b9",
+        "id": "37i9dQZF1DWViyN2b86Qnu"
+    },
+    {
+        "name": "Pride Party",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000037198c845d473c49194150312",
+        "id": "37i9dQZF1DX59HcpGmPXYR"
+    },
+    {
+        "name": "Club Resistance",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000034c0ce536823eee315e0098b6",
+        "id": "37i9dQZF1DWTLrNDPW5co2"
+    },
+    {
+        "name": "Alternative Pride",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000364c348d96c86caadb5279305",
+        "id": "37i9dQZF1DWTMR78LDoAZC"
+    },
+    {
+        "name": "Pioneers",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e15bf2d0ac4a523b5a28bd4e",
+        "id": "37i9dQZF1DWZREeDGwM6aE"
+    },
+    {
+        "name": "Disco Fever",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e1959dd0aaf5175fcd03fbc0",
+        "id": "37i9dQZF1DX2GKumqRIZ7g"
+    },
+    {
+        "name": "Fierce",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000397a285537288891e33c0159c",
+        "id": "37i9dQZF1DWZZCoBbLu26P"
+    },
+    {
+        "name": "House Origins",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003992bbef34e57c98a28d8d43b",
+        "id": "37i9dQZF1DWWeWDl2F7vbH"
+    },
+    {
+        "name": "Pride Beyond Borders",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000323eb5279cf43a7e610de17db",
+        "id": "37i9dQZF1DX5gUQYmrehre"
+    },
+    {
+        "name": "Work It, Own It",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003534651b949a2e23b2cd57509",
+        "id": "37i9dQZF1DXbmCTvLQy5AO"
+    },
+    {
+        "name": "Queercore",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003ccc4959049d9d058c2c4cfb2",
+        "id": "37i9dQZF1DXa3ll4rE48Mv"
+    },
+    {
+        "name": "Queer As Folk",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000397251db9b703c5b8a2014473",
+        "id": "37i9dQZF1DX5TMFhaZc9ov"
+    },
+    {
+        "name": "Latin Pride",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003fdf4e83422e057c6e782be75",
+        "id": "37i9dQZF1DX2lenzaqw2vs"
+    },
+    {
+        "name": "Spotify Singles: Pride",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000398d645be879c5ffd9b4976d4",
+        "id": "37i9dQZF1DXcaEXdyjLdxm"
+    },
+    {
+        "name": "Queer Composers",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000302eebb9d0ae5b656eb8fafb8",
+        "id": "37i9dQZF1DX75gMjYMWCsk"
+    },
+    {
+        "name": "API Pride",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000303310d83cbbc6c1f4bb7cbb9",
+        "id": "37i9dQZF1DX7eWGbr5dV3X"
+    },
+    {
+        "name": "ROY G BIV",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d02826d4e1ad39edc28a1554",
+        "id": "37i9dQZF1DX6PiP84oEbKp"
+    },
+    {
+        "name": "Greek Beach Party",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003c9ae4d4bcfce162544a78d44",
+        "id": "37i9dQZF1DWXfpNouAmTUm"
+    },
+    {
+        "name": "Kalokairines Epitihies 2022",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000344700e07ce45db541070a98f",
+        "id": "37i9dQZF1DX0OUeqURQcha"
+    },
+    {
+        "name": "Just Chill",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003719586de761e1ff231672faa",
+        "id": "37i9dQZF1DX0FJ8JYkqiJu"
+    },
+    {
+        "name": "Van Life",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003038161218994ecc166515951",
+        "id": "37i9dQZF1DX2ogDiL6nZJr"
+    },
+    {
+        "name": "Summer Throwback",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003858e9388631d9f3f5eaa5fca",
+        "id": "37i9dQZF1DXd1MXcE8WTXq"
+    },
+    {
+        "name": "Classical Garden",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003409c666e7a6f7679e68f8593",
+        "id": "37i9dQZF1DWUajed02NzWR"
+    },
+    {
+        "name": "Sunshine Reggae",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000032a2d103b23aeb9314c586e7b",
+        "id": "37i9dQZF1DXbwoaqxaoAVr"
+    },
+    {
+        "name": "Wild + Free",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003f7392b5c216cac6bd400b228",
+        "id": "37i9dQZF1DX5Q5wA1hY6bS"
+    },
+    {
+        "name": "Beach Party",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000037ba6b2d164d4809f515d9f3d",
+        "id": "37i9dQZF1DX4Y4RhrZqHhr"
+    },
+    {
+        "name": "Gentle Waves",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e3ea11201b45d09de58666a3",
+        "id": "37i9dQZF1DX3f9U3gq0DBT"
+    },
+    {
+        "name": "Ibiza Sunset",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000399830f361fba2e8512608f15",
+        "id": "37i9dQZF1DX9FIMhEujaK6"
+    },
+    {
+        "name": "Poolside Lounge",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000031228292eb262f6b9ec26faa9",
+        "id": "37i9dQZF1DWZSdcRHMl2tT"
+    },
+    {
+        "name": "Summer Hits of the 10s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003e6cfb3b666ea4f9fa7b3f08d",
+        "id": "37i9dQZF1DXaTitkvoNNxt"
+    },
+    {
+        "name": "Beach Vibes",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f0000000319835d3cd3ba41a341e8ee4f",
+        "id": "37i9dQZF1DX83I5je4W4rP"
+    },
+    {
+        "name": "The Obamas' 2019 Summer Favorites",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000031d098f5073dce7cc9fa097d6",
+        "id": "37i9dQZF1DWSnWpuB1FNVp"
+    },
+    {
+        "name": "Summer Jazz",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000036c4ba8f73ba9165ca364b63e",
+        "id": "37i9dQZF1DWTKxc7ZObqeH"
+    },
+    {
+        "name": "Soak Up the Sun",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000033f1e6060217b8571626c2f7b",
+        "id": "37i9dQZF1DX6ALfRKlHn1t"
+    },
+    {
+        "name": "Summer Hits of the 80s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f000000034529c1fe46315663e516bbe9",
+        "id": "37i9dQZF1DXbU2HfvNSMTH"
+    },
+    {
+        "name": "Instrumental Ukulele Covers",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003aadefd31a81f8f5b8a9d6d8c",
+        "id": "37i9dQZF1DWUYPasrIWf5j"
+    },
+    {
+        "name": "Summer Hits of the 00s",
+        "owner": "Spotify",
+        "image": "https://i.scdn.co/image/ab67706f00000003d158a2742d29b2a2b5386584",
+        "id": "37i9dQZF1DWTUoU0bd0p84"
+    }
+]
